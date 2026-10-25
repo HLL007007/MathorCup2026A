@@ -1,0 +1,660 @@
+﻿附件,轴,原名称,规范名称,对应字段
+2.csv,行,Acetaldehyde,Acetaldehyde,acetaldehyde
+2.csv,行,Carbon disulfide,Carbon disulfide,CS2
+2.csv,行,Diethyl sulfide,Diethyl sulfide,DES
+2.csv,行,Dimethyl sulfide,Dimethyl sulfide,DMS
+2.csv,行,Ethyl 2-methylbutyrate,Ethyl 2-methylbutyrate,ethyl_2.methyl_butyrate
+2.csv,行,Ethyl acetate,Ethyl acetate,ethyl_acetate
+2.csv,行,Ethyl decanoate,Ethyl decanoate,ethyl_decanoate
+2.csv,行,Ethyl hexanoate,Ethyl hexanoate,ethyl_hexanoate
+2.csv,行,Ethyl 3-methylbutyrate,Ethyl 3-methylbutyrate,ethyl_isovalerate
+2.csv,行,Ethyl octanoate,Ethyl octanoate,ethyl_octanoate
+2.csv,行,Ethyl propionate,Ethyl propionate,ethyl_propionate
+2.csv,行,Hydrogen sulfide,Hydrogen sulfide,H2S
+2.csv,行,Isoamyl alcohol,Isoamyl alcohol,isoamyl_alcohol
+2.csv,行,Isobutanol,Isobutanol,isobutanol
+2.csv,行,Isobutyl acetate,Isobutyl acetate,isobutyl_acetate
+2.csv,行,Isoamyl acetate,Isoamyl acetate,isopentyl_acetate
+2.csv,行,Methanethiol,Methanethiol,MeSH
+2.csv,行,Octyl acetate,Octyl acetate,octyl_acetate
+2.csv,行,Phenethyl acetate,Phenethyl acetate,phenethyl_acetate
+2.csv,行,Phenethyl alcohol,Phenethyl alcohol,phenethyl_alcohol
+2.csv,行,4-vinylguaiacol,4-vinylguaiacol,X4VG
+2.csv,行,Sulfur dioxide,Sulfur dioxide,SO2.mg.L.
+2.csv,行,Acetic acid,Acetic acid,acetic_acid.g.L.
+2.csv,行,Ammonia,Ammonia,ammonia.mg.L.
+2.csv,行,Color,Color,color.EBC.
+2.csv,行,Betaglucan,Betaglucan,betaglucan.mg.L.
+2.csv,行,Lactic acid,Lactic acid,lactic_acid.mg.L.
+2.csv,行,Glycerol,Glycerol,glycerol
+2.csv,行,Iron,Iron,iron
+2.csv,行,pH,pH,pH
+2.csv,行,Protein,Protein,protein.g.L.
+2.csv,行,Iso-alpha acids,Iso-alpha acids,bitterness
+2.csv,行,Sugars,Sugars,GFS
+2.csv,行,Ethanol,Ethanol,ethanol..v.v.
+2.csv,行,Carbon dioxide,Carbon dioxide,CO2.PSI.
+2.csv,行,Unfermentables,Unfermentables,unfermentables
+2.csv,行,Caloric value,Caloric value,kcalperc
+2.csv,行,1-propanol,1-propanol,X1.propanol
+2.csv,行,Diacetyl,Diacetyl,X2.3.butanedione
+2.csv,行,3-methylbutanal,3-methylbutanal,X3.methylbutanal
+2.csv,行,Propylene glycol,Propylene glycol,propylene.glycol
+2.csv,行,N-propyl acetate,N-propyl acetate,propyl.acetate
+2.csv,行,N-pentanol,N-pentanol,n.pentanol
+2.csv,行,2-methyl-1-butanol,2-methyl-1-butanol,X2.methyl.1.butanol
+2.csv,行,Isopentyl formate,Isopentyl formate,isopentyl.formate
+2.csv,行,Ethyl isobutyrate,Ethyl isobutyrate,ethyl.isobutyrate
+2.csv,行,3-methyl-2-butenal,3-methyl-2-butenal,X3.methyl.2.butenal
+2.csv,行,2-methyltetrahydrofuran-3-one,2-methyltetrahydrofuran-3-one,X2.methyltetrahydrofuran.3.one
+2.csv,行,Ethyl butyrate,Ethyl butyrate,ethyl.butyrate
+2.csv,行,Butyl acetate,Butyl acetate,butyl.acetate
+2.csv,行,Methylpyrazine,Methylpyrazine,methylpyrazine
+2.csv,行,Furfural,Furfural,furfural
+2.csv,行,Ethyl lactate,Ethyl lactate,ethyl.lactate
+2.csv,行,Cis-3-hexenol,Cis-3-hexenol,X3Z.hexenol
+2.csv,行,N-hexanol,N-hexanol,n.hexanol
+2.csv,行,Styrene,Styrene,styrene
+2.csv,行,Furfuryl alcohol,Furfuryl alcohol,X2.furanmethanol
+2.csv,行,3-methyl-2-hexanol,3-methyl-2-hexanol,X3.methyl.2.hexanol
+2.csv,行,3-furanmethanol,3-furanmethanol,X3.furanmethanol
+2.csv,行,2-acetylfuran,2-acetylfuran,X2.acetylfuran
+2.csv,行,"2,6-dimethylpyrazine","2,6-dimethylpyrazine",X2.6.dimethyl.pyrazine
+2.csv,行,Amyl acetate,Amyl acetate,amyl.acetate
+2.csv,行,Ethyl tiglate,Ethyl tiglate,ethyl.tiglate
+2.csv,行,Benzaldehyde,Benzaldehyde,benzaldehyde
+2.csv,行,5-methylfurfural,5-methylfurfural,X5.methylfurfural
+2.csv,行,N-heptanol,N-heptanol,n.heptanol
+2.csv,行,1-octen-3-ol,1-octen-3-ol,X1.octen.3.ol
+2.csv,行,Methionol,Methionol,X3.methylthio.propanol
+2.csv,行,Isomaltol,Isomaltol,isomaltol
+2.csv,行,Methyl heptenone,Methyl heptenone,X6.methyl.5.hepten.2.one
+2.csv,行,2-pentyl furan,2-pentyl furan,X2.pentyl.furan
+2.csv,行,Ethyl 3-hexanoate,Ethyl 3-hexanoate,ethyl.hex..3E..enoate
+2.csv,行,α-phellandrene,α-phellandrene,alpha.phellandrene
+2.csv,行,Dehydroxy-cis-linalool oxide,Dehydroxy-cis-linalool oxide,dehydroxy.cis.linalool.oxide
+2.csv,行,Hexyl acetate,Hexyl acetate,hexyl.acetate
+2.csv,行,Isopentyl butanoate,Isopentyl butanoate,isopentyl.butanoate
+2.csv,行,2-ethyl-1-hexanol,2-ethyl-1-hexanol,X2.ethyl.1.hexanol
+2.csv,行,Beta-phellandrene,Beta-phellandrene,beta.phellandrene
+2.csv,行,Limonene,Limonene,limonene
+2.csv,行,Eucalyptol,Eucalyptol,eucalyptol
+2.csv,行,Benzyl alcohol,Benzyl alcohol,benzyl.alcohol
+2.csv,行,Ethyl 2-hexenoate,Ethyl 2-hexenoate,ethyl.hex..2E..enoate
+2.csv,行,Phenylacetaldehyde,Phenylacetaldehyde,phenylacetaldehyde
+2.csv,行,E-β-ocimene,E-β-ocimene,X.E..beta.ocimene
+2.csv,行,Prenyl isobutyrate,Prenyl isobutyrate,prenyl.isobutyrate
+2.csv,行,Ethyl furoate,Ethyl furoate,ethyl.furoate
+2.csv,行,O-cresol,O-cresol,ortho.cresol
+2.csv,行,Ethyl 5-methylhexanoate,Ethyl 5-methylhexanoate,ethyl.5.methylhexanoate
+2.csv,行,2-acetylpyrrole,2-acetylpyrrole,X2.acetylpyrrole
+2.csv,行,Isoamyl lactate,Isoamyl lactate,isoamyl.lactate
+2.csv,行,N-octanol,N-octanol,n.octanol
+2.csv,行,Cis-linalool oxide,Cis-linalool oxide,cis.linalool.oxide
+2.csv,行,Meta-cymenene,Meta-cymenene,meta.cymenene
+2.csv,行,Terpinolene,Terpinolene,terpinolene
+2.csv,行,Linalool,Linalool,linalool
+2.csv,行,2-nonanol,2-nonanol,nonan.2.ol
+2.csv,行,N-nonanal,N-nonanal,n.nonanal
+2.csv,行,2-methyl-benzofuran,2-methyl-benzofuran,X2.methyl.benzofuran
+2.csv,行,Heptyl acetate,Heptyl acetate,heptyl.acetate
+2.csv,行,4-methyl-1-pentanol,4-methyl-1-pentanol,X4.methyl.1.pentanol
+2.csv,行,Neo-allo-ocimene,Neo-allo-ocimene,neo.allo.ocimene
+2.csv,行,X-methyl-1-octanol,X-methyl-1-octanol,x.methyl.1.octanol
+2.csv,行,Trans-dihydro-β-terpineol,Trans-dihydro-β-terpineol,trans.dihydro.beta.terpineol
+2.csv,行,Cis-β-terpineol,Cis-β-terpineol,cis.beta.terpineol
+2.csv,行,Y-methyl-1-octanol,Y-methyl-1-octanol,y.methyl.1.octanol
+2.csv,行,Camphor,Camphor,camphor
+2.csv,行,Isobutyl hexanoate,Isobutyl hexanoate,isobutyl.hexanoate
+2.csv,行,Nerol oxide,Nerol oxide,nerol.oxide
+2.csv,行,E-2-nonenal,E-2-nonenal,X.E..2.nonenal
+2.csv,行,Cis-dihydro-β-terpineol,Cis-dihydro-β-terpineol,cis.dihydro.beta.terpineol
+2.csv,行,4-ethyl-phenol,4-ethyl-phenol,X4.ethyl.phenol
+2.csv,行,Isoborneol,Isoborneol,isoborneol
+2.csv,行,Ethyl benzoate,Ethyl benzoate,ethyl.benzoate
+2.csv,行,N-nonanol,N-nonanol,n.nonanol
+2.csv,行,Terpinen-4-ol,Terpinen-4-ol,terpinen.4.ol
+2.csv,行,Diethyl succinate,Diethyl succinate,diethyl.succinate
+2.csv,行,Vinyl caprylate,Vinyl caprylate,vinyl.caprylate
+2.csv,行,Alpha-terpineol,Alpha-terpineol,X1.alpha.terpineol
+2.csv,行,Ethyl linalool,Ethyl linalool,ethyl..E..linalool
+2.csv,行,Ethyl nicotinate,Ethyl nicotinate,ethyl.nicotinate
+2.csv,行,Citronellol,Citronellol,citronellol
+2.csv,行,Nerol,Nerol,nerol
+2.csv,行,5-hydroxymethylfurfural,5-hydroxymethylfurfural,hydroxy.methyl.furfural
+2.csv,行,Ocimenone,Ocimenone,E.ocimenone
+2.csv,行,Cumin aldehyde,Cumin aldehyde,cumin.aldehyde
+2.csv,行,Ethyl phenylacetate,Ethyl phenylacetate,ethyl.phenylacetate
+2.csv,行,Isopentyl hexanoate,Isopentyl hexanoate,isopentyl.hexanoate
+2.csv,行,Geraniol,Geraniol,geraniol
+2.csv,行,β-cyclohomocitral,β-cyclohomocitral,beta.cyclohomocitral
+2.csv,行,Cinnamaldehyde,Cinnamaldehyde,E.cinnamaldehyde
+2.csv,行,N-decanol,N-decanol,n.decanol
+2.csv,行,Neryl formate,Neryl formate,neryl.formate
+2.csv,行,4-ethyl-guaiacol,4-ethyl-guaiacol,X4.ethyl.guaiacol
+2.csv,行,2-undecanone,2-undecanone,X2.undecanone
+2.csv,行,Trans-dihydro-α-terpinyl acetate,Trans-dihydro-α-terpinyl acetate,trans.dihydro.alpha.terpinyl.acetate
+2.csv,行,Terpinen-4-ol acetate,Terpinen-4-ol acetate,terpinen.4.ol.acetate
+2.csv,行,2-undecanol,2-undecanol,X2.undecanol
+2.csv,行,Terpiryl acetate,Terpiryl acetate,delta.terpinyl.acetate
+2.csv,行,"E,E-2,4-decadienal","E,E-2,4-decadienal",X.E.E..2.4.decadienal
+2.csv,行,Methyl geranate,Methyl geranate,methyl.geranate
+2.csv,行,Car-3-en-2-one,Car-3-en-2-one,car.3.en.2.one
+2.csv,行,Dimethoxy-E-citral,Dimethoxy-E-citral,dimethoxy..E..citral
+2.csv,行,2-butyl octanoate,2-butyl octanoate,X2.butyloctanoate
+2.csv,行,4-methoxysalicylaldehyde,4-methoxysalicylaldehyde,X4.methoxysalicylaldehyde
+2.csv,行,Ethyl hydrocinnamate,Ethyl hydrocinnamate,ethyl.hydrocinnamate
+2.csv,行,Eugenol,Eugenol,eugenol
+2.csv,行,Gamma-nonalactone,Gamma-nonalactone,gamma.nonalactone
+2.csv,行,Methyl para-anisate,Methyl para-anisate,methyl.para.anisate
+2.csv,行,E-β-damascenone,E-β-damascenone,X.E..beta.damascenone
+2.csv,行,Ethyl 9-decenoate,Ethyl 9-decenoate,ethyl..9..decenoate
+2.csv,行,Vanillin,Vanillin,vanillin
+2.csv,行,Geosmin,Geosmin,geosmin
+2.csv,行,Dodecanal,Dodecanal,dodecanal
+2.csv,行,"4,8-α-epoxy-caryophyllane","4,8-α-epoxy-caryophyllane",X4.8.alpha.epoxy.caryophyllane
+2.csv,行,Caryophyllene,Caryophyllene,E.caryophyllene
+2.csv,行,E-α-ionone,E-α-ionone,X.E..alpha.ionone
+2.csv,行,Perillyl acetate,Perillyl acetate,perillyl.acetate
+2.csv,行,β-humulene,β-humulene,beta.humulene
+2.csv,行,2-phenyl ethyl butyrate,2-phenyl ethyl butyrate,X2.phenyl.ethyl.butyrate
+2.csv,行,Z-β-farnesene,Z-β-farnesene,X.Z..beta.farnesene
+2.csv,行,Pentyl octanoate,Pentyl octanoate,pentyl.octanoate
+2.csv,行,E-β-farnesene,E-β-farnesene,X.E..beta.farnesene
+2.csv,行,2-methylbutyl octanoate,2-methylbutyl octanoate,X2.methylbutyl.octanoate
+2.csv,行,Alpha-humulene,Alpha-humulene,alpha.humulene
+2.csv,行,Neryl propanoate,Neryl propanoate,neryl.propanoate
+2.csv,行,9-epi-E-caryophyllene,9-epi-E-caryophyllene,X9.epi..E..caryophyllene
+2.csv,行,Ethyl cinnamate,Ethyl cinnamate,ethyl..E..cinnamate
+2.csv,行,Linalool isovalerate,Linalool isovalerate,linalool.isovalerate
+2.csv,行,α-terpinyl isobutanoate,α-terpinyl isobutanoate,alpha.terpinyl.isobutanoate
+2.csv,行,N-dodecanol,N-dodecanol,n.dodecanol
+2.csv,行,Germacrene D,Germacrene D,germacrene.D
+2.csv,行,E-β-ionone,E-β-ionone,X.E..beta.ionone
+2.csv,行,Valencene,Valencene,valencene
+2.csv,行,Neryl isobutanoate,Neryl isobutanoate,neryl.isobutanoate
+2.csv,行,Methyl isoeugenol,Methyl isoeugenol,E.methyl.isoeugenol
+2.csv,行,Z-dihydro-apofarnesal,Z-dihydro-apofarnesal,X.Z..dihydro.apofarnesal
+2.csv,行,Butylated hydroxytoluene,Butylated hydroxytoluene,butylated.hydroxytoluene
+2.csv,行,E-dihydro-apofarnesal,E-dihydro-apofarnesal,X.E..dihydro.apofarnesal
+2.csv,行,Z-nerolidol,Z-nerolidol,Z.nerolidol
+2.csv,行,E-ortho-methoxy cinnamaldehyde,E-ortho-methoxy cinnamaldehyde,X.E..ortho.methoxy.cinnamaldehyde
+2.csv,行,α-calacorene,α-calacorene,alpha.calacorene
+2.csv,行,E-nerolidol,E-nerolidol,E.nerolidol
+2.csv,行,Tobacarol,Tobacarol,dihydroisocaryophyllene.epoxide
+2.csv,行,Caryophyllene alcohol,Caryophyllene alcohol,caryophyllene.alcohol
+2.csv,行,Neryl isovalerate,Neryl isovalerate,neryl.isovalerate
+2.csv,行,Spathulenol,Spathulenol,spathulenol
+2.csv,行,Caryophyllene oxide,Caryophyllene oxide,caryophyllene.oxide
+2.csv,行,Humulene epoxide II,Humulene epoxide II,humulene.epoxide.II
+2.csv,行,Allo-aromadendrene epoxide,Allo-aromadendrene epoxide,alloaromadendrene.epoxide
+2.csv,行,Epicubenol,Epicubenol,X1.10.di.epi.cubenol
+2.csv,行,Isopropyl laurate,Isopropyl laurate,isopropyl.laurate
+2.csv,行,"Caryophylla-4,8-dien-5-ol","Caryophylla-4,8-dien-5-ol",caryophylla.4.12..8.13..dien.5.alpha.ol
+2.csv,行,Gamma-eudesmol,Gamma-eudesmol,gamma.eudesmol
+2.csv,行,α-muurolol,α-muurolol,alpha.muurolol
+2.csv,行,"1,2-dihydro-8-hydroxy-2E-linalool","1,2-dihydro-8-hydroxy-2E-linalool",X1.2.dihydro.8.hydroxy..2E..linalool
+2.csv,行,Tau-cadinol,Tau-cadinol,tau.cadinol
+2.csv,行,Kongol,Kongol,selin.11.en.4.alpha.ol
+2.csv,行,α-eudesmol,α-eudesmol,alpha.eudesmol
+2.csv,行,14-hydroxy-9-epi-(E)-caryophyllene,14-hydroxy-9-epi-(E)-caryophyllene,X14.hydroxy.9.epi..E..caryophyllene
+2.csv,行,Tau-muurolol,Tau-muurolol,tau.muurolol
+2.csv,行,N-tetradecanol,N-tetradecanol,n.tetradecanol
+2.csv,行,Eoeniculin,Eoeniculin,foeniculin
+2.csv,行,Cadalene,Cadalene,cadalene
+2.csv,行,"2,3-dihydro-farnesol","2,3-dihydro-farnesol",X2.3.dihydro.farnesol
+2.csv,行,"E,Z-farnesal","E,Z-farnesal",X2E.6Z.farnesal
+2.csv,行,Caryophyllene acetate,Caryophyllene acetate,caryophyllene.acetate
+2.csv,行,14-hydroxy-α-humulene,14-hydroxy-α-humulene,X14.hydroxy.alpha.humulene
+2.csv,行,"Z,E-farnesal","Z,E-farnesal",X2Z.6E.farnesal
+2.csv,行,"Z,Z-farnesol","Z,Z-farnesol",X2Z.6Z.farnesol
+2.csv,行,"Z,E-farnesol","Z,E-farnesol",X2Z.6E.farnesol
+2.csv,行,Ambroxide,Ambroxide,ambroxide
+2.csv,行,Benzyl benzoate,Benzyl benzoate,benzyl.benzoate
+2.csv,行,"2E,6E-methyl farnesoate","2E,6E-methyl farnesoate",X2E.6E.methyl.farnesoate
+2.csv,行,Ethyl tetradecanoate,Ethyl tetradecanoate,ethyl.tetradecanoate
+2.csv,行,2-ethylhexyl acrylate,2-ethylhexyl acrylate,X2.ethylhexylsalicylate
+2.csv,行,Isopropyl tetradecanoate,Isopropyl tetradecanoate,isopropyl.tetradecanoate
+2.csv,行,Ethyl pentadecanoate,Ethyl pentadecanoate,ethyl.pentadecanoate
+2.csv,行,Methyl hexadecanoate,Methyl hexadecanoate,methyl.hexadecanoate
+2.csv,行,"Z,Z-geranyl linalool","Z,Z-geranyl linalool",Z.Z.geranyl.linalool
+2.csv,行,Ethyl hexadecanoate,Ethyl hexadecanoate,ethyl.hexadecanoate
+2.csv,行,Manool oxide,Manool oxide,manool.oxide
+2.csv,行,13-epi manool oxide,13-epi manool oxide,X13.epi.manool.oxide
+2.csv,行,Isopropyl hexadecanoate,Isopropyl hexadecanoate,isopropyl.hexadecanoate
+2.csv,行,Manool,Manool,manool
+2.csv,行,Ethyl octadecanoate,Ethyl octadecanoate,ethyl.octadecanoate
+2.csv,行,Ethyl pentanoate,Ethyl pentanoate,ethyl.pentanoate
+2.csv,行,2-ethyl-3-methylpyrazine,2-ethyl-3-methylpyrazine,X2.ethyl.3.methylpyrazine
+2.csv,行,Total ester compounds,Total ester compounds,esters_sum
+2.csv,行,Total hop aroma compounds,Total hop aroma compounds,aroma_hops_sum
+2.csv,行,Total acids,Total acids,acids_sum
+2.csv,行,Total sulfur compounds,Total sulfur compounds,sulfur_sum
+2.csv,列,Acetaldehyde,Acetaldehyde,acetaldehyde
+2.csv,列,Carbon disulfide,Carbon disulfide,CS2
+2.csv,列,Diethyl sulfide,Diethyl sulfide,DES
+2.csv,列,Dimethyl sulfide,Dimethyl sulfide,DMS
+2.csv,列,Ethyl 2-methylbutyrate,Ethyl 2-methylbutyrate,ethyl_2.methyl_butyrate
+2.csv,列,Ethyl acetate,Ethyl acetate,ethyl_acetate
+2.csv,列,Ethyl decanoate,Ethyl decanoate,ethyl_decanoate
+2.csv,列,Ethyl hexanoate,Ethyl hexanoate,ethyl_hexanoate
+2.csv,列,Ethyl 3-methylbutyrate,Ethyl 3-methylbutyrate,ethyl_isovalerate
+2.csv,列,Ethyl octanoate,Ethyl octanoate,ethyl_octanoate
+2.csv,列,Ethyl propionate,Ethyl propionate,ethyl_propionate
+2.csv,列,Hydrogen sulfide,Hydrogen sulfide,H2S
+2.csv,列,Isoamyl alcohol,Isoamyl alcohol,isoamyl_alcohol
+2.csv,列,Isobutanol,Isobutanol,isobutanol
+2.csv,列,Isobutyl acetate,Isobutyl acetate,isobutyl_acetate
+2.csv,列,Isoamyl acetate,Isoamyl acetate,isopentyl_acetate
+2.csv,列,Methanethiol,Methanethiol,MeSH
+2.csv,列,Octyl acetate,Octyl acetate,octyl_acetate
+2.csv,列,Phenethyl acetate,Phenethyl acetate,phenethyl_acetate
+2.csv,列,Phenethyl alcohol,Phenethyl alcohol,phenethyl_alcohol
+2.csv,列,4-vinylguaiacol,4-vinylguaiacol,X4VG
+2.csv,列,Sulfur dioxide,Sulfur dioxide,SO2.mg.L.
+2.csv,列,Acetic acid,Acetic acid,acetic_acid.g.L.
+2.csv,列,Ammonia,Ammonia,ammonia.mg.L.
+2.csv,列,Color,Color,color.EBC.
+2.csv,列,Betaglucan,Betaglucan,betaglucan.mg.L.
+2.csv,列,Lactic acid,Lactic acid,lactic_acid.mg.L.
+2.csv,列,Glycerol,Glycerol,glycerol
+2.csv,列,Iron,Iron,iron
+2.csv,列,pH,pH,pH
+2.csv,列,Protein,Protein,protein.g.L.
+2.csv,列,Iso-alpha acids,Iso-alpha acids,bitterness
+2.csv,列,Sugars,Sugars,GFS
+2.csv,列,Ethanol,Ethanol,ethanol..v.v.
+2.csv,列,Carbon dioxide,Carbon dioxide,CO2.PSI.
+2.csv,列,Unfermentables,Unfermentables,unfermentables
+2.csv,列,Caloric value,Caloric value,kcalperc
+2.csv,列,1-propanol,1-propanol,X1.propanol
+2.csv,列,Diacetyl,Diacetyl,X2.3.butanedione
+2.csv,列,3-methylbutanal,3-methylbutanal,X3.methylbutanal
+2.csv,列,Propylene glycol,Propylene glycol,propylene.glycol
+2.csv,列,N-propyl acetate,N-propyl acetate,propyl.acetate
+2.csv,列,N-pentanol,N-pentanol,n.pentanol
+2.csv,列,2-methyl-1-butanol,2-methyl-1-butanol,X2.methyl.1.butanol
+2.csv,列,Isopentyl formate,Isopentyl formate,isopentyl.formate
+2.csv,列,Ethyl isobutyrate,Ethyl isobutyrate,ethyl.isobutyrate
+2.csv,列,3-methyl-2-butenal,3-methyl-2-butenal,X3.methyl.2.butenal
+2.csv,列,2-methyltetrahydrofuran-3-one,2-methyltetrahydrofuran-3-one,X2.methyltetrahydrofuran.3.one
+2.csv,列,Ethyl butyrate,Ethyl butyrate,ethyl.butyrate
+2.csv,列,Butyl acetate,Butyl acetate,butyl.acetate
+2.csv,列,Methylpyrazine,Methylpyrazine,methylpyrazine
+2.csv,列,Furfural,Furfural,furfural
+2.csv,列,Ethyl lactate,Ethyl lactate,ethyl.lactate
+2.csv,列,Cis-3-hexenol,Cis-3-hexenol,X3Z.hexenol
+2.csv,列,N-hexanol,N-hexanol,n.hexanol
+2.csv,列,Styrene,Styrene,styrene
+2.csv,列,Furfuryl alcohol,Furfuryl alcohol,X2.furanmethanol
+2.csv,列,3-methyl-2-hexanol,3-methyl-2-hexanol,X3.methyl.2.hexanol
+2.csv,列,3-furanmethanol,3-furanmethanol,X3.furanmethanol
+2.csv,列,2-acetylfuran,2-acetylfuran,X2.acetylfuran
+2.csv,列,"2,6-dimethylpyrazine","2,6-dimethylpyrazine",X2.6.dimethyl.pyrazine
+2.csv,列,Amyl acetate,Amyl acetate,amyl.acetate
+2.csv,列,Ethyl tiglate,Ethyl tiglate,ethyl.tiglate
+2.csv,列,Benzaldehyde,Benzaldehyde,benzaldehyde
+2.csv,列,5-methylfurfural,5-methylfurfural,X5.methylfurfural
+2.csv,列,N-heptanol,N-heptanol,n.heptanol
+2.csv,列,1-octen-3-ol,1-octen-3-ol,X1.octen.3.ol
+2.csv,列,Methionol,Methionol,X3.methylthio.propanol
+2.csv,列,Isomaltol,Isomaltol,isomaltol
+2.csv,列,Methyl heptenone,Methyl heptenone,X6.methyl.5.hepten.2.one
+2.csv,列,2-pentyl furan,2-pentyl furan,X2.pentyl.furan
+2.csv,列,Ethyl 3-hexanoate,Ethyl 3-hexanoate,ethyl.hex..3E..enoate
+2.csv,列,α-phellandrene,α-phellandrene,alpha.phellandrene
+2.csv,列,Dehydroxy-cis-linalool oxide,Dehydroxy-cis-linalool oxide,dehydroxy.cis.linalool.oxide
+2.csv,列,Hexyl acetate,Hexyl acetate,hexyl.acetate
+2.csv,列,Isopentyl butanoate,Isopentyl butanoate,isopentyl.butanoate
+2.csv,列,2-ethyl-1-hexanol,2-ethyl-1-hexanol,X2.ethyl.1.hexanol
+2.csv,列,Beta-phellandrene,Beta-phellandrene,beta.phellandrene
+2.csv,列,Limonene,Limonene,limonene
+2.csv,列,Eucalyptol,Eucalyptol,eucalyptol
+2.csv,列,Benzyl alcohol,Benzyl alcohol,benzyl.alcohol
+2.csv,列,Ethyl 2-hexenoate,Ethyl 2-hexenoate,ethyl.hex..2E..enoate
+2.csv,列,Phenylacetaldehyde,Phenylacetaldehyde,phenylacetaldehyde
+2.csv,列,E-β-ocimene,E-β-ocimene,X.E..beta.ocimene
+2.csv,列,Prenyl isobutyrate,Prenyl isobutyrate,prenyl.isobutyrate
+2.csv,列,Ethyl furoate,Ethyl furoate,ethyl.furoate
+2.csv,列,O-cresol,O-cresol,ortho.cresol
+2.csv,列,Ethyl 5-methylhexanoate,Ethyl 5-methylhexanoate,ethyl.5.methylhexanoate
+2.csv,列,2-acetylpyrrole,2-acetylpyrrole,X2.acetylpyrrole
+2.csv,列,Isoamyl lactate,Isoamyl lactate,isoamyl.lactate
+2.csv,列,N-octanol,N-octanol,n.octanol
+2.csv,列,Cis-linalool oxide,Cis-linalool oxide,cis.linalool.oxide
+2.csv,列,Meta-cymenene,Meta-cymenene,meta.cymenene
+2.csv,列,Terpinolene,Terpinolene,terpinolene
+2.csv,列,Linalool,Linalool,linalool
+2.csv,列,2-nonanol,2-nonanol,nonan.2.ol
+2.csv,列,N-nonanal,N-nonanal,n.nonanal
+2.csv,列,2-methyl-benzofuran,2-methyl-benzofuran,X2.methyl.benzofuran
+2.csv,列,Heptyl acetate,Heptyl acetate,heptyl.acetate
+2.csv,列,4-methyl-1-pentanol,4-methyl-1-pentanol,X4.methyl.1.pentanol
+2.csv,列,Neo-allo-ocimene,Neo-allo-ocimene,neo.allo.ocimene
+2.csv,列,X-methyl-1-octanol,X-methyl-1-octanol,x.methyl.1.octanol
+2.csv,列,Trans-dihydro-β-terpineol,Trans-dihydro-β-terpineol,trans.dihydro.beta.terpineol
+2.csv,列,Cis-β-terpineol,Cis-β-terpineol,cis.beta.terpineol
+2.csv,列,Y-methyl-1-octanol,Y-methyl-1-octanol,y.methyl.1.octanol
+2.csv,列,Camphor,Camphor,camphor
+2.csv,列,Isobutyl hexanoate,Isobutyl hexanoate,isobutyl.hexanoate
+2.csv,列,Nerol oxide,Nerol oxide,nerol.oxide
+2.csv,列,E-2-nonenal,E-2-nonenal,X.E..2.nonenal
+2.csv,列,Cis-dihydro-β-terpineol,Cis-dihydro-β-terpineol,cis.dihydro.beta.terpineol
+2.csv,列,4-ethyl-phenol,4-ethyl-phenol,X4.ethyl.phenol
+2.csv,列,Isoborneol,Isoborneol,isoborneol
+2.csv,列,Ethyl benzoate,Ethyl benzoate,ethyl.benzoate
+2.csv,列,N-nonanol,N-nonanol,n.nonanol
+2.csv,列,Terpinen-4-ol,Terpinen-4-ol,terpinen.4.ol
+2.csv,列,Diethyl succinate,Diethyl succinate,diethyl.succinate
+2.csv,列,Vinyl caprylate,Vinyl caprylate,vinyl.caprylate
+2.csv,列,Alpha-terpineol,Alpha-terpineol,X1.alpha.terpineol
+2.csv,列,Ethyl linalool,Ethyl linalool,ethyl..E..linalool
+2.csv,列,Ethyl nicotinate,Ethyl nicotinate,ethyl.nicotinate
+2.csv,列,Citronellol,Citronellol,citronellol
+2.csv,列,Nerol,Nerol,nerol
+2.csv,列,5-hydroxymethylfurfural,5-hydroxymethylfurfural,hydroxy.methyl.furfural
+2.csv,列,Ocimenone,Ocimenone,E.ocimenone
+2.csv,列,Cumin aldehyde,Cumin aldehyde,cumin.aldehyde
+2.csv,列,Ethyl phenylacetate,Ethyl phenylacetate,ethyl.phenylacetate
+2.csv,列,Isopentyl hexanoate,Isopentyl hexanoate,isopentyl.hexanoate
+2.csv,列,Geraniol,Geraniol,geraniol
+2.csv,列,β-cyclohomocitral,β-cyclohomocitral,beta.cyclohomocitral
+2.csv,列,Cinnamaldehyde,Cinnamaldehyde,E.cinnamaldehyde
+2.csv,列,N-decanol,N-decanol,n.decanol
+2.csv,列,Neryl formate,Neryl formate,neryl.formate
+2.csv,列,4-ethyl-guaiacol,4-ethyl-guaiacol,X4.ethyl.guaiacol
+2.csv,列,2-undecanone,2-undecanone,X2.undecanone
+2.csv,列,Trans-dihydro-α-terpinyl acetate,Trans-dihydro-α-terpinyl acetate,trans.dihydro.alpha.terpinyl.acetate
+2.csv,列,Terpinen-4-ol acetate,Terpinen-4-ol acetate,terpinen.4.ol.acetate
+2.csv,列,2-undecanol,2-undecanol,X2.undecanol
+2.csv,列,Terpiryl acetate,Terpiryl acetate,delta.terpinyl.acetate
+2.csv,列,"E,E-2,4-decadienal","E,E-2,4-decadienal",X.E.E..2.4.decadienal
+2.csv,列,Methyl geranate,Methyl geranate,methyl.geranate
+2.csv,列,Car-3-en-2-one,Car-3-en-2-one,car.3.en.2.one
+2.csv,列,Dimethoxy-E-citral,Dimethoxy-E-citral,dimethoxy..E..citral
+2.csv,列,2-butyl octanoate,2-butyl octanoate,X2.butyloctanoate
+2.csv,列,4-methoxysalicylaldehyde,4-methoxysalicylaldehyde,X4.methoxysalicylaldehyde
+2.csv,列,Ethyl hydrocinnamate,Ethyl hydrocinnamate,ethyl.hydrocinnamate
+2.csv,列,Eugenol,Eugenol,eugenol
+2.csv,列,Gamma-nonalactone,Gamma-nonalactone,gamma.nonalactone
+2.csv,列,Methyl para-anisate,Methyl para-anisate,methyl.para.anisate
+2.csv,列,E-β-damascenone,E-β-damascenone,X.E..beta.damascenone
+2.csv,列,Ethyl 9-decenoate,Ethyl 9-decenoate,ethyl..9..decenoate
+2.csv,列,Vanillin,Vanillin,vanillin
+2.csv,列,Geosmin,Geosmin,geosmin
+2.csv,列,Dodecanal,Dodecanal,dodecanal
+2.csv,列,"4,8-α-epoxy-caryophyllane","4,8-α-epoxy-caryophyllane",X4.8.alpha.epoxy.caryophyllane
+2.csv,列,Caryophyllene,Caryophyllene,E.caryophyllene
+2.csv,列,E-α-ionone,E-α-ionone,X.E..alpha.ionone
+2.csv,列,Perillyl acetate,Perillyl acetate,perillyl.acetate
+2.csv,列,β-humulene,β-humulene,beta.humulene
+2.csv,列,2-phenyl ethyl butyrate,2-phenyl ethyl butyrate,X2.phenyl.ethyl.butyrate
+2.csv,列,Z-β-farnesene,Z-β-farnesene,X.Z..beta.farnesene
+2.csv,列,Pentyl octanoate,Pentyl octanoate,pentyl.octanoate
+2.csv,列,E-β-farnesene,E-β-farnesene,X.E..beta.farnesene
+2.csv,列,2-methylbutyl octanoate,2-methylbutyl octanoate,X2.methylbutyl.octanoate
+2.csv,列,Alpha-humulene,Alpha-humulene,alpha.humulene
+2.csv,列,Neryl propanoate,Neryl propanoate,neryl.propanoate
+2.csv,列,9-epi-E-caryophyllene,9-epi-E-caryophyllene,X9.epi..E..caryophyllene
+2.csv,列,Ethyl cinnamate,Ethyl cinnamate,ethyl..E..cinnamate
+2.csv,列,Linalool isovalerate,Linalool isovalerate,linalool.isovalerate
+2.csv,列,α-terpinyl isobutanoate,α-terpinyl isobutanoate,alpha.terpinyl.isobutanoate
+2.csv,列,N-dodecanol,N-dodecanol,n.dodecanol
+2.csv,列,Germacrene D,Germacrene D,germacrene.D
+2.csv,列,E-β-ionone,E-β-ionone,X.E..beta.ionone
+2.csv,列,Valencene,Valencene,valencene
+2.csv,列,Neryl isobutanoate,Neryl isobutanoate,neryl.isobutanoate
+2.csv,列,Methyl isoeugenol,Methyl isoeugenol,E.methyl.isoeugenol
+2.csv,列,Z-dihydro-apofarnesal,Z-dihydro-apofarnesal,X.Z..dihydro.apofarnesal
+2.csv,列,Butylated hydroxytoluene,Butylated hydroxytoluene,butylated.hydroxytoluene
+2.csv,列,E-dihydro-apofarnesal,E-dihydro-apofarnesal,X.E..dihydro.apofarnesal
+2.csv,列,Z-nerolidol,Z-nerolidol,Z.nerolidol
+2.csv,列,E-ortho-methoxy cinnamaldehyde,E-ortho-methoxy cinnamaldehyde,X.E..ortho.methoxy.cinnamaldehyde
+2.csv,列,α-calacorene,α-calacorene,alpha.calacorene
+2.csv,列,E-nerolidol,E-nerolidol,E.nerolidol
+2.csv,列,Tobacarol,Tobacarol,dihydroisocaryophyllene.epoxide
+2.csv,列,Caryophyllene alcohol,Caryophyllene alcohol,caryophyllene.alcohol
+2.csv,列,Neryl isovalerate,Neryl isovalerate,neryl.isovalerate
+2.csv,列,Spathulenol,Spathulenol,spathulenol
+2.csv,列,Caryophyllene oxide,Caryophyllene oxide,caryophyllene.oxide
+2.csv,列,Humulene epoxide II,Humulene epoxide II,humulene.epoxide.II
+2.csv,列,Allo-aromadendrene epoxide,Allo-aromadendrene epoxide,alloaromadendrene.epoxide
+2.csv,列,Epicubenol,Epicubenol,X1.10.di.epi.cubenol
+2.csv,列,Isopropyl laurate,Isopropyl laurate,isopropyl.laurate
+2.csv,列,"Caryophylla-4,8-dien-5-ol","Caryophylla-4,8-dien-5-ol",caryophylla.4.12..8.13..dien.5.alpha.ol
+2.csv,列,Gamma-eudesmol,Gamma-eudesmol,gamma.eudesmol
+2.csv,列,α-muurolol,α-muurolol,alpha.muurolol
+2.csv,列,"1,2-dihydro-8-hydroxy-2E-linalool","1,2-dihydro-8-hydroxy-2E-linalool",X1.2.dihydro.8.hydroxy..2E..linalool
+2.csv,列,Tau-cadinol,Tau-cadinol,tau.cadinol
+2.csv,列,Kongol,Kongol,selin.11.en.4.alpha.ol
+2.csv,列,α-eudesmol,α-eudesmol,alpha.eudesmol
+2.csv,列,14-hydroxy-9-epi-(E)-caryophyllene,14-hydroxy-9-epi-(E)-caryophyllene,X14.hydroxy.9.epi..E..caryophyllene
+2.csv,列,Tau-muurolol,Tau-muurolol,tau.muurolol
+2.csv,列,N-tetradecanol,N-tetradecanol,n.tetradecanol
+2.csv,列,Eoeniculin,Eoeniculin,foeniculin
+2.csv,列,Cadalene,Cadalene,cadalene
+2.csv,列,"2,3-dihydro-farnesol","2,3-dihydro-farnesol",X2.3.dihydro.farnesol
+2.csv,列,"E,Z-farnesal","E,Z-farnesal",X2E.6Z.farnesal
+2.csv,列,Caryophyllene acetate,Caryophyllene acetate,caryophyllene.acetate
+2.csv,列,14-hydroxy-α-humulene,14-hydroxy-α-humulene,X14.hydroxy.alpha.humulene
+2.csv,列,"Z,E-farnesal","Z,E-farnesal",X2Z.6E.farnesal
+2.csv,列,"Z,Z-farnesol","Z,Z-farnesol",X2Z.6Z.farnesol
+2.csv,列,"Z,E-farnesol","Z,E-farnesol",X2Z.6E.farnesol
+2.csv,列,Ambroxide,Ambroxide,ambroxide
+2.csv,列,Benzyl benzoate,Benzyl benzoate,benzyl.benzoate
+2.csv,列,"2E,6E-methyl farnesoate","2E,6E-methyl farnesoate",X2E.6E.methyl.farnesoate
+2.csv,列,Ethyl tetradecanoate,Ethyl tetradecanoate,ethyl.tetradecanoate
+2.csv,列,2-ethylhexyl acrylate,2-ethylhexyl acrylate,X2.ethylhexylsalicylate
+2.csv,列,Isopropyl tetradecanoate,Isopropyl tetradecanoate,isopropyl.tetradecanoate
+2.csv,列,Ethyl pentadecanoate,Ethyl pentadecanoate,ethyl.pentadecanoate
+2.csv,列,Methyl hexadecanoate,Methyl hexadecanoate,methyl.hexadecanoate
+2.csv,列,"Z,Z-geranyl linalool","Z,Z-geranyl linalool",Z.Z.geranyl.linalool
+2.csv,列,Ethyl hexadecanoate,Ethyl hexadecanoate,ethyl.hexadecanoate
+2.csv,列,Manool oxide,Manool oxide,manool.oxide
+2.csv,列,13-epi manool oxide,13-epi manool oxide,X13.epi.manool.oxide
+2.csv,列,Isopropyl hexadecanoate,Isopropyl hexadecanoate,isopropyl.hexadecanoate
+2.csv,列,Manool,Manool,manool
+2.csv,列,Ethyl octadecanoate,Ethyl octadecanoate,ethyl.octadecanoate
+2.csv,列,Ethyl pentanoate,Ethyl pentanoate,ethyl.pentanoate
+2.csv,列,2-ethyl-3-methylpyrazine,2-ethyl-3-methylpyrazine,X2.ethyl.3.methylpyrazine
+2.csv,列,Total ester compounds,Total ester compounds,esters_sum
+2.csv,列,Total hop aroma compounds,Total hop aroma compounds,aroma_hops_sum
+2.csv,列,Total acids,Total acids,acids_sum
+2.csv,列,Total sulfur compounds,Total sulfur compounds,sulfur_sum
+5.csv,行,Malt aroma - overall,Malt aroma - overall,A_malt_all
+5.csv,行,Malt aroma - grain,Malt aroma - grain,A_malt_grain
+5.csv,行,Malt aroma - bread,Malt aroma - bread,A_malt_bread
+5.csv,行,Malt aroma - caramel,Malt aroma - caramel,A_malt_cara
+5.csv,行,Malt aroma - smoked,Malt aroma - smoked,A_malt_burn
+5.csv,行,Hops aroma - overall,Hops aroma - overall,A_hops_all
+5.csv,行,Hops aroma - citrus,Hops aroma - citrus,A_hops_citrus
+5.csv,行,Hops aroma - tropical fruit,Hops aroma - tropical fruit,A_hops_tropical
+5.csv,行,Hops aroma - grassy,Hops aroma - grassy,A_hops_noble
+5.csv,行,Hops aroma - woody,Hops aroma - woody,A_hops_woody
+5.csv,行,Esters aroma - overall,Esters aroma - overall,A_esters_all
+5.csv,行,Esters aroma - nail polish,Esters aroma - nail polish,A_esters_ethac
+5.csv,行,Esters aroma - banana,Esters aroma - banana,A_esters_isoaa
+5.csv,行,Esters aroma - floral,Esters aroma - floral,A_esters_flower
+5.csv,行,Esters aroma - fruity,Esters aroma - fruity,A_esters_fruity
+5.csv,行,Malt taste - overall,Malt taste - overall,F_malt_all
+5.csv,行,Malt taste - grain,Malt taste - grain,F_malt_grain
+5.csv,行,Malt taste - bread,Malt taste - bread,F_malt_bread
+5.csv,行,Malt taste - caramel,Malt taste - caramel,F_malt_cara
+5.csv,行,Malt taste - smoked,Malt taste - smoked,F_malt_burn
+5.csv,行,Hops taste - overall,Hops taste - overall,F_hops_all
+5.csv,行,Hops taste - citrus,Hops taste - citrus,F_hops_citrus
+5.csv,行,Hops taste - tropical fruit,Hops taste - tropical fruit,F_hops_tropical
+5.csv,行,Hops taste - grassy,Hops taste - grassy,F_hops_noble
+5.csv,行,Hops taste - woody,Hops taste - woody,F_hops_woody
+5.csv,行,Esters taste - overall,Esters taste - overall,F_esters_all
+5.csv,行,Esters taste - nail polish,Esters taste - nail polish,F_esters_ethac
+5.csv,行,Esters taste - banana,Esters taste - banana,F_esters_isoaa
+5.csv,行,Esters taste - floral,Esters taste - floral,F_esters_flower
+5.csv,行,Esters taste - fruity,Esters taste - fruity,F_esters_fruity
+5.csv,行,Acidity,Acidity,acidity
+5.csv,行,Bitterness,Bitterness,bitternes
+5.csv,行,Sweetness,Sweetness,sweetness
+5.csv,行,4-vinyl guaiacol,4-vinyl guaiacol,X4vg
+5.csv,行,Diacetyl,Diacetyl,diacetyl
+5.csv,行,Dimethyl sulfide,Dimethyl sulfide,dms
+5.csv,行,Metallic,Metallic,metallic
+5.csv,行,Stale hops,Stale hops,stale_hops
+5.csv,行,Trans-2-nonenal,Trans-2-nonenal,t2n
+5.csv,行,Orange,Orange,orange
+5.csv,行,Coriander,Coriander,coriander
+5.csv,行,Clove,Clove,clove
+5.csv,行,Lactic acid,Lactic acid,lactic
+5.csv,行,Acetic acid,Acetic acid,acetic
+5.csv,行,Barnyard,Barnyard,barnyard
+5.csv,行,Alcohol,Alcohol,alcohol
+5.csv,行,Carbonation,Carbonation,co2
+5.csv,行,Aftertaste,Aftertaste,aftertaste
+5.csv,行,Body,Body,body
+5.csv,行,"Overall appreciation
+(Trained panel)",Overall appreciation (Trained panel),overall
+5.csv,列,Malt aroma - overall,Malt aroma - overall,A_malt_all
+5.csv,列,Malt aroma - grain,Malt aroma - grain,A_malt_grain
+5.csv,列,Malt aroma - bread,Malt aroma - bread,A_malt_bread
+5.csv,列,Malt aroma - caramel,Malt aroma - caramel,A_malt_cara
+5.csv,列,Malt aroma - smoked,Malt aroma - smoked,A_malt_burn
+5.csv,列,Hops aroma - overall,Hops aroma - overall,A_hops_all
+5.csv,列,Hops aroma - citrus,Hops aroma - citrus,A_hops_citrus
+5.csv,列,Hops aroma - tropical fruit,Hops aroma - tropical fruit,A_hops_tropical
+5.csv,列,Hops aroma - grassy,Hops aroma - grassy,A_hops_noble
+5.csv,列,Hops aroma - woody,Hops aroma - woody,A_hops_woody
+5.csv,列,Esters aroma - overall,Esters aroma - overall,A_esters_all
+5.csv,列,Esters aroma - nail polish,Esters aroma - nail polish,A_esters_ethac
+5.csv,列,Esters aroma - banana,Esters aroma - banana,A_esters_isoaa
+5.csv,列,Esters aroma - floral,Esters aroma - floral,A_esters_flower
+5.csv,列,Esters aroma - fruity,Esters aroma - fruity,A_esters_fruity
+5.csv,列,Malt taste - overall,Malt taste - overall,F_malt_all
+5.csv,列,Malt taste - grain,Malt taste - grain,F_malt_grain
+5.csv,列,Malt taste - bread,Malt taste - bread,F_malt_bread
+5.csv,列,Malt taste - caramel,Malt taste - caramel,F_malt_cara
+5.csv,列,Malt taste - smoked,Malt taste - smoked,F_malt_burn
+5.csv,列,Hops taste - overall,Hops taste - overall,F_hops_all
+5.csv,列,Hops taste - citrus,Hops taste - citrus,F_hops_citrus
+5.csv,列,Hops taste - tropical fruit,Hops taste - tropical fruit,F_hops_tropical
+5.csv,列,Hops taste - grassy,Hops taste - grassy,F_hops_noble
+5.csv,列,Hops taste - woody,Hops taste - woody,F_hops_woody
+5.csv,列,Esters taste - overall,Esters taste - overall,F_esters_all
+5.csv,列,Esters taste - nail polish,Esters taste - nail polish,F_esters_ethac
+5.csv,列,Esters taste - banana,Esters taste - banana,F_esters_isoaa
+5.csv,列,Esters taste - floral,Esters taste - floral,F_esters_flower
+5.csv,列,Esters taste - fruity,Esters taste - fruity,F_esters_fruity
+5.csv,列,Acidity,Acidity,acidity
+5.csv,列,Bitterness,Bitterness,bitternes
+5.csv,列,Sweetness,Sweetness,sweetness
+5.csv,列,4-vinyl guaiacol,4-vinyl guaiacol,X4vg
+5.csv,列,Diacetyl,Diacetyl,diacetyl
+5.csv,列,Dimethyl sulfide,Dimethyl sulfide,dms
+5.csv,列,Metallic,Metallic,metallic
+5.csv,列,Stale hops,Stale hops,stale_hops
+5.csv,列,Trans-2-nonenal,Trans-2-nonenal,t2n
+5.csv,列,Orange,Orange,orange
+5.csv,列,Coriander,Coriander,coriander
+5.csv,列,Clove,Clove,clove
+5.csv,列,Lactic acid,Lactic acid,lactic
+5.csv,列,Acetic acid,Acetic acid,acetic
+5.csv,列,Barnyard,Barnyard,barnyard
+5.csv,列,Alcohol,Alcohol,alcohol
+5.csv,列,Carbonation,Carbonation,co2
+5.csv,列,Aftertaste,Aftertaste,aftertaste
+5.csv,列,Body,Body,body
+5.csv,列,"Overall appreciation
+(Trained panel)",Overall appreciation (Trained panel),overall
+6.csv,行,Ethyl acetate,Ethyl acetate,ethyl_acetate
+6.csv,行,Ethyl decanoate,Ethyl decanoate,ethyl_decanoate
+6.csv,行,Ethyl hexanoate,Ethyl hexanoate,ethyl_hexanoate
+6.csv,行,Ethyl octanoate,Ethyl octanoate,ethyl_octanoate
+6.csv,行,Ethyl propionate,Ethyl propionate,ethyl_propionate
+6.csv,行,Isobutyl acetate,Isobutyl acetate,isobutyl_acetate
+6.csv,行,Isoamyl acetate,Isoamyl acetate,isopentyl_acetate
+6.csv,行,Octyl acetate,Octyl acetate,octyl_acetate
+6.csv,行,Phenethyl acetate,Phenethyl acetate,phenethyl_acetate
+6.csv,行,Ethyl 2-methylbutyrate,Ethyl 2-methylbutyrate,ethyl_2.methyl_butyrate
+6.csv,行,Ethyl 3-methylbutyrate,Ethyl 3-methylbutyrate,ethyl_isovalerate
+6.csv,行,Ethanol,Ethanol,ethanol..v.v.
+6.csv,行,Isoamyl alcohol,Isoamyl alcohol,isoamyl_alcohol
+6.csv,行,Isobutanol,Isobutanol,isobutanol
+6.csv,行,Phenethyl alcohol,Phenethyl alcohol,phenethyl_alcohol
+6.csv,行,Glycerol,Glycerol,glycerol
+6.csv,行,Iso-alpha acids,Iso-alpha acids,bitterness
+6.csv,行,Alpha-humulene,Alpha-humulene,alpha.humulene
+6.csv,行,Caryophyllene,Caryophyllene,E.caryophyllene
+6.csv,行,Alpha-terpineol,Alpha-terpineol,X1.alpha.terpineol
+6.csv,行,Citronellol,Citronellol,citronellol
+6.csv,行,Geraniol,Geraniol,geraniol
+6.csv,行,Linalool,Linalool,linalool
+6.csv,行,Z-nerolidol,Z-nerolidol,Z.nerolidol
+6.csv,行,Acetic acid,Acetic acid,acetic_acid.g.L.
+6.csv,行,Lactic acid,Lactic acid,lactic_acid.mg.L.
+6.csv,行,Diacetyl,Diacetyl,X2.3.butanedione
+6.csv,行,4-vinylguaiacol,4-vinylguaiacol,X4VG
+6.csv,行,Acetaldehyde,Acetaldehyde,acetaldehyde
+6.csv,行,Carbon disulfide,Carbon disulfide,CS2
+6.csv,行,Dimethyl sulfide,Dimethyl sulfide,DMS
+6.csv,行,Diethyl sulfide,Diethyl sulfide,DES
+6.csv,行,Hydrogen sulfide,Hydrogen sulfide,H2S
+6.csv,行,Methanethiol,Methanethiol,MeSH
+6.csv,行,Sulfur dioxide,Sulfur dioxide,SO2.mg.L.
+6.csv,行,Carbon dioxide,Carbon dioxide,CO2.PSI.
+6.csv,行,pH,pH,pH
+6.csv,行,Ammonia,Ammonia,ammonia.mg.L.
+6.csv,行,Betaglucan,Betaglucan,betaglucan.mg.L.
+6.csv,行,Color,Color,color.EBC.
+6.csv,行,Iron,Iron,iron
+6.csv,行,Protein,Protein,protein.g.L.
+6.csv,行,Sugars,Sugars,GFS
+6.csv,行,Caloric value,Caloric value,kcalperc
+6.csv,列,Malt aroma - overall,Malt aroma - overall,A_malt_all
+6.csv,列,Malt aroma - grain,Malt aroma - grain,A_malt_grain
+6.csv,列,Malt aroma - bread,Malt aroma - bread,A_malt_bread
+6.csv,列,Malt aroma - caramel,Malt aroma - caramel,A_malt_cara
+6.csv,列,Malt aroma - smoked,Malt aroma - smoked,A_malt_burn
+6.csv,列,Hops aroma - overall,Hops aroma - overall,A_hops_all
+6.csv,列,Hops aroma - citrus,Hops aroma - citrus,A_hops_citrus
+6.csv,列,Hops aroma - tropical fruit,Hops aroma - tropical fruit,A_hops_tropical
+6.csv,列,Hops aroma - grassy,Hops aroma - grassy,A_hops_noble
+6.csv,列,Hops aroma - woody,Hops aroma - woody,A_hops_woody
+6.csv,列,Esters aroma - overall,Esters aroma - overall,A_esters_all
+6.csv,列,Esters aroma - nail polish,Esters aroma - nail polish,A_esters_ethac
+6.csv,列,Esters aroma - banana,Esters aroma - banana,A_esters_isoaa
+6.csv,列,Esters aroma - floral,Esters aroma - floral,A_esters_flower
+6.csv,列,Esters aroma - fruity,Esters aroma - fruity,A_esters_fruity
+6.csv,列,Malt taste - overall,Malt taste - overall,F_malt_all
+6.csv,列,Malt taste - grain,Malt taste - grain,F_malt_grain
+6.csv,列,Malt taste - bread,Malt taste - bread,F_malt_bread
+6.csv,列,Malt taste - caramel,Malt taste - caramel,F_malt_cara
+6.csv,列,Malt taste - smoked,Malt taste - smoked,F_malt_burn
+6.csv,列,Hops taste - overall,Hops taste - overall,F_hops_all
+6.csv,列,Hops taste - citrus,Hops taste - citrus,F_hops_citrus
+6.csv,列,Hops taste - tropical fruit,Hops taste - tropical fruit,F_hops_tropical
+6.csv,列,Hops taste - grassy,Hops taste - grassy,F_hops_noble
+6.csv,列,Hops taste - woody,Hops taste - woody,F_hops_woody
+6.csv,列,Esters taste - overall,Esters taste - overall,F_esters_all
+6.csv,列,Esters taste - nail polish,Esters taste - nail polish,F_esters_ethac
+6.csv,列,Esters taste - banana,Esters taste - banana,F_esters_isoaa
+6.csv,列,Esters taste - floral,Esters taste - floral,F_esters_flower
+6.csv,列,Esters taste - fruity,Esters taste - fruity,F_esters_fruity
+6.csv,列,Acidity,Acidity,acidity
+6.csv,列,Bitterness,Bitterness,bitternes
+6.csv,列,Sweetness,Sweetness,sweetness
+6.csv,列,4-vinyl guaiacol,4-vinyl guaiacol,X4vg
+6.csv,列,Diacetyl,Diacetyl,diacetyl
+6.csv,列,Dimethyl sulfide,Dimethyl sulfide,dms
+6.csv,列,Metallic,Metallic,metallic
+6.csv,列,Stale hops,Stale hops,stale_hops
+6.csv,列,Trans-2-nonenal,Trans-2-nonenal,t2n
+6.csv,列,Orange,Orange,orange
+6.csv,列,Coriander,Coriander,coriander
+6.csv,列,Clove,Clove,clove
+6.csv,列,Lactic acid,Lactic acid,lactic
+6.csv,列,Acetic acid,Acetic acid,acetic
+6.csv,列,Barnyard,Barnyard,barnyard
+6.csv,列,Alcohol,Alcohol,alcohol
+6.csv,列,Carbonation,Carbonation,co2
+6.csv,列,Aftertaste,Aftertaste,aftertaste
+6.csv,列,Body,Body,body
+6.csv,列,"Overall appreciation
+(Trained panel)",Overall appreciation (Trained panel),overall

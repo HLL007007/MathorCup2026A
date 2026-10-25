@@ -1,0 +1,10 @@
+﻿特征,训练有效样本数,训练缺失数,验证缺失数,填充值_训练中位数
+X2.3.butanedione,172,5,4,0.289621935
+X3.methylbutanal,172,5,2,0.10845693
+ethyl.isobutyrate,176,1,0,0.044079864999999996
+methylpyrazine,169,8,4,0.000272804
+furfural,176,1,0,0.007972879
+amyl.acetate,162,15,12,0.001996196
+phenylacetaldehyde,176,1,0,0.0117899055
+ethyl.nicotinate,176,1,1,0.011517208000000001
+aroma_hops_sum,168,9,4,1.962686647

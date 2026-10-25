@@ -1,0 +1,51 @@
+﻿感官属性,目标分组,Category_Paper,CleanName_PaperLong,DataType,标签来源,当前值标尺,评分卡summary定义存在,原始0至6观测状态
+A_malt_all,Aroma（A_）,Aroma,Malt aroma,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_malt_grain,Aroma（A_）,Aroma,Malt aroma - grain,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_malt_bread,Aroma（A_）,Aroma,Malt aroma - bread,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_malt_cara,Aroma（A_）,Aroma,Malt aroma - caramel,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_malt_burn,Aroma（A_）,Aroma,Malt aroma - smoked,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_hops_all,Aroma（A_）,Aroma,Hops aroma,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_hops_citrus,Aroma（A_）,Aroma,Hops aroma - citrus,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_hops_tropical,Aroma（A_）,Aroma,Hops aroma - tropical fruit,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_hops_noble,Aroma（A_）,Aroma,Hops aroma - grassy,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_hops_woody,Aroma（A_）,Aroma,Hops aroma - woody,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_esters_all,Aroma（A_）,Aroma,Esters aroma,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_esters_ethac,Aroma（A_）,Aroma,Esters aroma - nail polish,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_esters_isoaa,Aroma（A_）,Aroma,Esters aroma - banana,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_esters_flower,Aroma（A_）,Aroma,Esters aroma - floral,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+A_esters_fruity,Aroma（A_）,Aroma,Esters aroma - fruity,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_malt_all,Flavour（F_）,Taste,Malt taste,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_malt_grain,Flavour（F_）,Taste,Malt taste - grain,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_malt_bread,Flavour（F_）,Taste,Malt taste - bread,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_malt_cara,Flavour（F_）,Taste,Malt taste - caramel,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_malt_burn,Flavour（F_）,Taste,Malt taste - smoked,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_hops_all,Flavour（F_）,Taste,Hops taste,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_hops_citrus,Flavour（F_）,Taste,Hops taste - citrus,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_hops_tropical,Flavour（F_）,Taste,Hops taste - tropical fruit,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_hops_noble,Flavour（F_）,Taste,Hops taste - grassy,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_hops_woody,Flavour（F_）,Taste,Hops taste - woody,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_esters_all,Flavour（F_）,Taste,Esters taste,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_esters_ethac,Flavour（F_）,Taste,Esters taste - nail polish,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_esters_isoaa,Flavour（F_）,Taste,Esters taste - banana,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_esters_flower,Flavour（F_）,Taste,Esters taste - floral,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+F_esters_fruity,Flavour（F_）,Taste,Esters taste - fruity,categorical,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+acidity,其他感官/总体,Taste,Acidity,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+bitternes,其他感官/总体,Taste,Bitterness,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+sweetness,其他感官/总体,Taste,Sweetness,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+X4vg,其他感官/总体,Taste,4-vinyl guaiacol,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+diacetyl,其他感官/总体,Taste,Diacetyl,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+dms,其他感官/总体,Taste,Dimethyl sulfide,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+metallic,其他感官/总体,Taste,Metallic,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+stale_hops,其他感官/总体,Taste,Stale hops,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+t2n,其他感官/总体,Taste,Aging aroma - cardboard,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+orange,其他感官/总体,Taste,Hops taste - citrus,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+coriander,其他感官/总体,Taste,Coriander,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+clove,其他感官/总体,Taste,Clove,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+lactic,其他感官/总体,Taste,Lactic acid,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+acetic,其他感官/总体,Taste,Acetic acid,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+barnyard,其他感官/总体,Taste,Barnyard,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+alcohol,其他感官/总体,Palate,Alcohol,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+aftertaste,其他感官/总体,Palate,Aftertaste,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+body,其他感官/总体,Palate,Body fullness,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+co2,其他感官/总体,Palate,Carbonation,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
+overall,其他感官/总体,Overall,Overall appreciation,numeric,4.csv,标准化/中心化连续值（题面说明）,True,现有评分卡输入为空；用户确认无其他原始评分或转换参数，无法还原
