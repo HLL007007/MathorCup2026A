@@ -1,0 +1,35 @@
+# Local editor settings
+.vscode/
+.idea/
+
+# Python caches and notebook checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Python environments and credentials
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Local model caches; CSV results and paper figures remain versioned
+*.pkl
+*.pickle
+*.joblib
+
+# Temporary files and operating-system metadata
+*.log
+*.tmp
+*.temp
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini

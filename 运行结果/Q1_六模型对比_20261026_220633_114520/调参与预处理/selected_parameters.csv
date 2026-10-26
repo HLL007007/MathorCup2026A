@@ -1,0 +1,1001 @@
+﻿repeat,fold,model,target,candidate,parameters,tuning_scope,selection_metric,effective_metric
+1,1,Ridge,A_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,A_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,A_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_hops_all,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_hops_noble,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,A_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,A_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_esters_isoaa,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,A_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,F_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,F_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_hops_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,F_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_hops_noble,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,F_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,F_esters_ethac,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,F_esters_isoaa,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,F_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,acidity,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,bitternes,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,sweetness,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,X4vg,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,diacetyl,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,dms,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,metallic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,stale_hops,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,t2n,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,orange,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,coriander,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,clove,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,lactic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,acetic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,barnyard,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,alcohol,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,aftertaste,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,body,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,1,Ridge,co2,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,Ridge,overall,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,1,PLS2,A_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,A_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,F_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,acidity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,bitternes,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,sweetness,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,X4vg,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,diacetyl,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,dms,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,metallic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,stale_hops,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,t2n,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,orange,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,coriander,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,clove,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,lactic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,acetic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,barnyard,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,alcohol,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,aftertaste,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,body,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,co2,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,PLS2,overall,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,1,RF,A_malt_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,A_malt_grain,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_malt_cara,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_malt_burn,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,A_hops_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_hops_citrus,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_hops_tropical,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,A_hops_noble,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_hops_woody,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_esters_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,A_esters_ethac,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_esters_isoaa,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,A_esters_fruity,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_malt_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,F_malt_grain,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_malt_bread,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,F_malt_cara,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_malt_burn,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_hops_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_hops_citrus,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_hops_noble,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_hops_woody,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,F_esters_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_esters_ethac,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_esters_isoaa,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,F_esters_fruity,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,acidity,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,bitternes,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,sweetness,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,X4vg,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,diacetyl,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,dms,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,metallic,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,stale_hops,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,t2n,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,orange,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,coriander,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,clove,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,lactic,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,acetic,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,RF,barnyard,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,alcohol,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,aftertaste,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,body,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,co2,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,1,RF,overall,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,1,GBDT,A_malt_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_malt_bread,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_malt_burn,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_hops_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_hops_woody,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_esters_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_esters_ethac,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,A_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_malt_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_malt_bread,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_malt_cara,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_malt_burn,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_hops_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_hops_woody,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_esters_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_esters_ethac,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,F_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,acidity,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,bitternes,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,sweetness,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,X4vg,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,diacetyl,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,dms,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,metallic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,stale_hops,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,t2n,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,orange,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,coriander,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,clove,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,lactic,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,acetic,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,barnyard,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,alcohol,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,aftertaste,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,body,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,co2,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,1,GBDT,overall,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,Ridge,A_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,A_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,A_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_hops_all,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_hops_noble,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,A_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_esters_isoaa,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,A_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,A_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,F_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_malt_bread,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,F_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,F_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_hops_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,F_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_hops_noble,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,F_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_esters_isoaa,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,F_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,acidity,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,bitternes,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,sweetness,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,X4vg,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,diacetyl,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,dms,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,metallic,6,"{""alpha"": 10000.0}",per_target,MAE,MAE
+1,2,Ridge,stale_hops,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,t2n,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,orange,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,coriander,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,clove,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,lactic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,acetic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,barnyard,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,alcohol,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,aftertaste,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,body,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,2,Ridge,co2,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,Ridge,overall,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,2,PLS2,A_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,A_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,F_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,acidity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,bitternes,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,sweetness,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,X4vg,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,diacetyl,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,dms,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,metallic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,stale_hops,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,t2n,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,orange,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,coriander,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,clove,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,lactic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,acetic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,barnyard,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,alcohol,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,aftertaste,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,body,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,co2,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,PLS2,overall,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,2,RF,A_malt_all,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_malt_grain,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_malt_cara,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_malt_burn,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,A_hops_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_hops_citrus,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_hops_noble,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_hops_woody,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_esters_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_esters_ethac,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,A_esters_isoaa,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,A_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,A_esters_fruity,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_malt_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_malt_grain,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,F_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_malt_cara,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_malt_burn,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,F_hops_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_hops_citrus,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,F_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_hops_noble,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_hops_woody,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_esters_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_esters_ethac,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_esters_isoaa,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,F_esters_fruity,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,acidity,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,bitternes,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,sweetness,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,X4vg,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,diacetyl,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,dms,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,metallic,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,stale_hops,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,t2n,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,orange,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,coriander,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,clove,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,lactic,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,acetic,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,barnyard,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,alcohol,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,aftertaste,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,body,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,RF,co2,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,2,RF,overall,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,2,GBDT,A_malt_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_malt_bread,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_malt_burn,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_hops_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_hops_noble,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_hops_woody,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_esters_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_esters_ethac,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,A_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_malt_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_malt_bread,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_malt_burn,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_hops_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_hops_woody,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_esters_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_esters_ethac,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,F_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,acidity,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,bitternes,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,sweetness,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,X4vg,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,diacetyl,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,dms,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,metallic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,stale_hops,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,t2n,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,orange,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,coriander,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,clove,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,lactic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,acetic,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,barnyard,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,alcohol,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,aftertaste,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,body,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,co2,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,2,GBDT,overall,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,Ridge,A_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,A_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,A_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_hops_all,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_hops_noble,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,A_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,A_esters_isoaa,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,A_esters_flower,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,A_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,F_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,F_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_hops_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,F_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_hops_noble,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,F_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,F_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_esters_isoaa,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,F_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,F_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,acidity,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,bitternes,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,sweetness,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,X4vg,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,diacetyl,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,dms,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,metallic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,stale_hops,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,t2n,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,orange,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,coriander,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,clove,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,lactic,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,acetic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,barnyard,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,alcohol,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,aftertaste,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,body,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,3,Ridge,co2,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,Ridge,overall,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,3,PLS2,A_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,A_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,F_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,acidity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,bitternes,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,sweetness,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,X4vg,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,diacetyl,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,dms,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,metallic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,stale_hops,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,t2n,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,orange,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,coriander,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,clove,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,lactic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,acetic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,barnyard,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,alcohol,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,aftertaste,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,body,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,co2,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,PLS2,overall,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,3,RF,A_malt_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,A_malt_grain,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_malt_cara,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_malt_burn,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,A_hops_all,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_hops_citrus,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,A_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_hops_noble,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_hops_woody,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,A_esters_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_esters_ethac,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,A_esters_isoaa,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,A_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,A_esters_fruity,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,F_malt_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_malt_grain,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,F_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_malt_cara,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_malt_burn,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,F_hops_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,F_hops_citrus,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_hops_noble,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_hops_woody,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,F_esters_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_esters_ethac,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_esters_isoaa,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,F_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,F_esters_fruity,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,acidity,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,bitternes,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,sweetness,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,X4vg,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,diacetyl,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,dms,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,metallic,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,stale_hops,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,t2n,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,orange,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,coriander,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,clove,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,lactic,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,acetic,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,barnyard,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,3,RF,alcohol,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,aftertaste,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,body,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,co2,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,RF,overall,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,3,GBDT,A_malt_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_malt_bread,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_malt_cara,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_malt_burn,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_hops_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_hops_woody,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_esters_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_esters_ethac,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_esters_isoaa,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,A_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_malt_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_malt_bread,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_malt_burn,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_hops_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_hops_woody,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_esters_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_esters_ethac,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,F_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,acidity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,bitternes,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,sweetness,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,X4vg,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,diacetyl,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,dms,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,metallic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,stale_hops,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,t2n,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,orange,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,coriander,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,clove,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,lactic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,acetic,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,barnyard,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,alcohol,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,aftertaste,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,body,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,co2,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,3,GBDT,overall,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,Ridge,A_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,A_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,A_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_hops_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,A_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_hops_noble,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,A_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_esters_isoaa,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,A_esters_fruity,6,"{""alpha"": 10000.0}",per_target,MAE,MAE
+1,4,Ridge,F_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,F_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_malt_cara,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_hops_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,F_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_hops_noble,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,F_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_esters_isoaa,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,F_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,acidity,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,bitternes,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,sweetness,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,X4vg,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,diacetyl,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,dms,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,metallic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,stale_hops,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,t2n,6,"{""alpha"": 10000.0}",per_target,MAE,MAE
+1,4,Ridge,orange,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,coriander,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,clove,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,lactic,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,acetic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,barnyard,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,alcohol,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,aftertaste,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,body,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,4,Ridge,co2,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,Ridge,overall,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,4,PLS2,A_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,A_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,F_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,acidity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,bitternes,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,sweetness,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,X4vg,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,diacetyl,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,dms,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,metallic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,stale_hops,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,t2n,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,orange,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,coriander,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,clove,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,lactic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,acetic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,barnyard,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,alcohol,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,aftertaste,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,body,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,co2,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,PLS2,overall,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,4,RF,A_malt_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_malt_grain,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,A_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,A_malt_cara,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_malt_burn,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_hops_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_hops_citrus,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,A_hops_noble,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_hops_woody,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_esters_all,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_esters_ethac,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,A_esters_isoaa,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,A_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,A_esters_fruity,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_malt_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,F_malt_grain,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,F_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,F_malt_cara,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_malt_burn,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_hops_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,F_hops_citrus,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,F_hops_noble,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,F_hops_woody,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_esters_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_esters_ethac,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_esters_isoaa,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,F_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,F_esters_fruity,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,acidity,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,bitternes,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,sweetness,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,X4vg,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,diacetyl,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,dms,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,metallic,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,stale_hops,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,t2n,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,orange,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,coriander,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,clove,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,lactic,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,acetic,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,barnyard,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,alcohol,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,aftertaste,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,body,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,4,RF,co2,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,RF,overall,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,4,GBDT,A_malt_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_malt_bread,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_malt_burn,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_hops_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_hops_woody,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_esters_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_esters_ethac,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,A_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_malt_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_malt_bread,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_malt_burn,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_hops_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_hops_woody,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_esters_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_esters_ethac,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,F_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,acidity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,bitternes,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,sweetness,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,X4vg,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,diacetyl,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,dms,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,metallic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,stale_hops,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,t2n,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,orange,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,coriander,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,clove,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,lactic,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,acetic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,barnyard,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,alcohol,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,aftertaste,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,body,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,co2,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,4,GBDT,overall,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,Ridge,A_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,A_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,A_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_hops_all,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_hops_noble,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,A_esters_ethac,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_esters_isoaa,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,A_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,A_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_malt_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,F_malt_grain,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_malt_bread,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_malt_cara,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,F_malt_burn,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_hops_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,F_hops_citrus,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_hops_tropical,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_hops_noble,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,F_hops_woody,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_esters_all,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,F_esters_ethac,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,F_esters_isoaa,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_esters_flower,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,F_esters_fruity,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,acidity,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,bitternes,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,sweetness,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,X4vg,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,diacetyl,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,dms,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,metallic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,stale_hops,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,t2n,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,orange,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,coriander,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,clove,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,lactic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,acetic,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,barnyard,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,alcohol,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,aftertaste,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,body,4,"{""alpha"": 100.0}",per_target,MAE,MAE
+1,5,Ridge,co2,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,Ridge,overall,5,"{""alpha"": 1000.0}",per_target,MAE,MAE
+1,5,PLS2,A_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,A_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_malt_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_malt_grain,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_malt_bread,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_malt_cara,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_malt_burn,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_hops_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_hops_citrus,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_hops_tropical,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_hops_noble,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_hops_woody,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_esters_all,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_esters_ethac,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_esters_isoaa,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_esters_flower,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,F_esters_fruity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,acidity,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,bitternes,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,sweetness,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,X4vg,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,diacetyl,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,dms,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,metallic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,stale_hops,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,t2n,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,orange,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,coriander,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,clove,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,lactic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,acetic,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,barnyard,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,alcohol,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,aftertaste,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,body,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,co2,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,PLS2,overall,3,"{""n_components"": 10}",joint_multioutput,MAE,MAE
+1,5,RF,A_malt_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,A_malt_grain,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_malt_cara,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_malt_burn,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,A_hops_all,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,A_hops_citrus,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_hops_tropical,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_hops_noble,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_hops_woody,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_esters_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,A_esters_ethac,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_esters_isoaa,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,A_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,A_esters_fruity,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_malt_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,F_malt_grain,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,F_malt_bread,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_malt_cara,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_malt_burn,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_hops_all,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,F_hops_citrus,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_hops_tropical,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,F_hops_noble,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_hops_woody,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,F_esters_all,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_esters_ethac,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_esters_isoaa,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,F_esters_flower,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,F_esters_fruity,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,acidity,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,bitternes,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,sweetness,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,X4vg,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,diacetyl,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,dms,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,metallic,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,stale_hops,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,t2n,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,orange,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,coriander,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,clove,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,lactic,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,acetic,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,barnyard,3,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,alcohol,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,aftertaste,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,RF,body,2,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,co2,4,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 5, ""max_features"": 0.8}",per_target,MAE,MAE
+1,5,RF,overall,1,"{""n_estimators"": 150, ""max_depth"": null, ""min_samples_leaf"": 2, ""max_features"": 0.5}",per_target,MAE,MAE
+1,5,GBDT,A_malt_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_malt_bread,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_malt_burn,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_hops_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_hops_citrus,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_hops_woody,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_esters_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_esters_ethac,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,A_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_malt_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_malt_grain,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_malt_bread,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_malt_cara,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_malt_burn,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_hops_all,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_hops_citrus,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_hops_tropical,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_hops_noble,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_hops_woody,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_esters_all,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_esters_ethac,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_esters_isoaa,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_esters_flower,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,F_esters_fruity,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,acidity,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,bitternes,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,sweetness,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,X4vg,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,diacetyl,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,dms,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,metallic,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,stale_hops,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,t2n,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,orange,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,coriander,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,clove,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,lactic,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,acetic,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,barnyard,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,alcohol,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,aftertaste,2,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,body,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,co2,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE
+1,5,GBDT,overall,1,"{""n_estimators"": 150, ""learning_rate"": 0.05, ""max_depth"": 1, ""min_samples_leaf"": 5, ""subsample"": 1.0, ""loss"": ""squared_error""}",per_target,MAE,MAE

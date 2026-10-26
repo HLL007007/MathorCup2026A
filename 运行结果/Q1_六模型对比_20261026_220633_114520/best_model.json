@@ -1,0 +1,11 @@
+{
+  "model": "TargetBlend",
+  "selection_metric": "MAE_mean",
+  "rule": "lowest outer-CV mean MAE; ties: lowest RMSE, highest R2, fixed model order",
+  "cv_metrics": {
+    "MAE_mean": 0.3390366187455808,
+    "RMSE_mean": 0.4674195198701837,
+    "R2_mean": 0.21166207508488433
+  },
+  "evaluation_note": "reporting choice uses CV comparison; these scores are not an independent test of the final selection"
+}

@@ -1,0 +1,221 @@
+﻿repeat,fold,role,style,n_samples
+1,1,train,Amber,10
+1,1,train,Blond,26
+1,1,train,Brett/cofermented,6
+1,1,train,Brown,7
+1,1,train,Brut,4
+1,1,train,Christmas,8
+1,1,train,Dubbel,7
+1,1,train,Faro,3
+1,1,train,Flanders old brown,5
+1,1,train,Fruitbeer,7
+1,1,train,Hoppy,13
+1,1,train,Kriek,8
+1,1,train,Lambic,10
+1,1,train,Low/No alcohol,6
+1,1,train,Pils/Lager,9
+1,1,train,Saison,7
+1,1,train,Scotch,5
+1,1,train,Stout/Porter,9
+1,1,train,Strong ale,15
+1,1,train,Tripel,22
+1,1,train,West Flanders ale,5
+1,1,train,Wheat,8
+1,1,validation,Amber,2
+1,1,validation,Blond,5
+1,1,validation,Brett/cofermented,0
+1,1,validation,Brown,5
+1,1,validation,Brut,0
+1,1,validation,Christmas,1
+1,1,validation,Dubbel,3
+1,1,validation,Faro,0
+1,1,validation,Flanders old brown,0
+1,1,validation,Fruitbeer,1
+1,1,validation,Hoppy,4
+1,1,validation,Kriek,2
+1,1,validation,Lambic,1
+1,1,validation,Low/No alcohol,2
+1,1,validation,Pils/Lager,2
+1,1,validation,Saison,3
+1,1,validation,Scotch,0
+1,1,validation,Stout/Porter,4
+1,1,validation,Strong ale,3
+1,1,validation,Tripel,6
+1,1,validation,West Flanders ale,2
+1,1,validation,Wheat,4
+1,2,train,Amber,7
+1,2,train,Blond,21
+1,2,train,Brett/cofermented,6
+1,2,train,Brown,11
+1,2,train,Brut,4
+1,2,train,Christmas,6
+1,2,train,Dubbel,9
+1,2,train,Faro,2
+1,2,train,Flanders old brown,4
+1,2,train,Fruitbeer,8
+1,2,train,Hoppy,12
+1,2,train,Kriek,9
+1,2,train,Lambic,10
+1,2,train,Low/No alcohol,5
+1,2,train,Pils/Lager,9
+1,2,train,Saison,9
+1,2,train,Scotch,4
+1,2,train,Stout/Porter,10
+1,2,train,Strong ale,15
+1,2,train,Tripel,21
+1,2,train,West Flanders ale,6
+1,2,train,Wheat,12
+1,2,validation,Amber,5
+1,2,validation,Blond,10
+1,2,validation,Brett/cofermented,0
+1,2,validation,Brown,1
+1,2,validation,Brut,0
+1,2,validation,Christmas,3
+1,2,validation,Dubbel,1
+1,2,validation,Faro,1
+1,2,validation,Flanders old brown,1
+1,2,validation,Fruitbeer,0
+1,2,validation,Hoppy,5
+1,2,validation,Kriek,1
+1,2,validation,Lambic,1
+1,2,validation,Low/No alcohol,3
+1,2,validation,Pils/Lager,2
+1,2,validation,Saison,1
+1,2,validation,Scotch,1
+1,2,validation,Stout/Porter,3
+1,2,validation,Strong ale,3
+1,2,validation,Tripel,7
+1,2,validation,West Flanders ale,1
+1,2,validation,Wheat,0
+1,3,train,Amber,10
+1,3,train,Blond,22
+1,3,train,Brett/cofermented,6
+1,3,train,Brown,9
+1,3,train,Brut,3
+1,3,train,Christmas,9
+1,3,train,Dubbel,10
+1,3,train,Faro,2
+1,3,train,Flanders old brown,4
+1,3,train,Fruitbeer,5
+1,3,train,Hoppy,14
+1,3,train,Kriek,7
+1,3,train,Lambic,8
+1,3,train,Low/No alcohol,7
+1,3,train,Pils/Lager,8
+1,3,train,Saison,8
+1,3,train,Scotch,5
+1,3,train,Stout/Porter,11
+1,3,train,Strong ale,13
+1,3,train,Tripel,23
+1,3,train,West Flanders ale,4
+1,3,train,Wheat,12
+1,3,validation,Amber,2
+1,3,validation,Blond,9
+1,3,validation,Brett/cofermented,0
+1,3,validation,Brown,3
+1,3,validation,Brut,1
+1,3,validation,Christmas,0
+1,3,validation,Dubbel,0
+1,3,validation,Faro,1
+1,3,validation,Flanders old brown,1
+1,3,validation,Fruitbeer,3
+1,3,validation,Hoppy,3
+1,3,validation,Kriek,3
+1,3,validation,Lambic,3
+1,3,validation,Low/No alcohol,1
+1,3,validation,Pils/Lager,3
+1,3,validation,Saison,2
+1,3,validation,Scotch,0
+1,3,validation,Stout/Porter,2
+1,3,validation,Strong ale,5
+1,3,validation,Tripel,5
+1,3,validation,West Flanders ale,3
+1,3,validation,Wheat,0
+1,4,train,Amber,10
+1,4,train,Blond,28
+1,4,train,Brett/cofermented,5
+1,4,train,Brown,12
+1,4,train,Brut,3
+1,4,train,Christmas,6
+1,4,train,Dubbel,6
+1,4,train,Faro,3
+1,4,train,Flanders old brown,4
+1,4,train,Fruitbeer,5
+1,4,train,Hoppy,14
+1,4,train,Kriek,7
+1,4,train,Lambic,8
+1,4,train,Low/No alcohol,7
+1,4,train,Pils/Lager,8
+1,4,train,Saison,7
+1,4,train,Scotch,2
+1,4,train,Stout/Porter,12
+1,4,train,Strong ale,16
+1,4,train,Tripel,23
+1,4,train,West Flanders ale,6
+1,4,train,Wheat,8
+1,4,validation,Amber,2
+1,4,validation,Blond,3
+1,4,validation,Brett/cofermented,1
+1,4,validation,Brown,0
+1,4,validation,Brut,1
+1,4,validation,Christmas,3
+1,4,validation,Dubbel,4
+1,4,validation,Faro,0
+1,4,validation,Flanders old brown,1
+1,4,validation,Fruitbeer,3
+1,4,validation,Hoppy,3
+1,4,validation,Kriek,3
+1,4,validation,Lambic,3
+1,4,validation,Low/No alcohol,1
+1,4,validation,Pils/Lager,3
+1,4,validation,Saison,3
+1,4,validation,Scotch,3
+1,4,validation,Stout/Porter,1
+1,4,validation,Strong ale,2
+1,4,validation,Tripel,5
+1,4,validation,West Flanders ale,1
+1,4,validation,Wheat,4
+1,5,train,Amber,11
+1,5,train,Blond,27
+1,5,train,Brett/cofermented,1
+1,5,train,Brown,9
+1,5,train,Brut,2
+1,5,train,Christmas,7
+1,5,train,Dubbel,8
+1,5,train,Faro,2
+1,5,train,Flanders old brown,3
+1,5,train,Fruitbeer,7
+1,5,train,Hoppy,15
+1,5,train,Kriek,9
+1,5,train,Lambic,8
+1,5,train,Low/No alcohol,7
+1,5,train,Pils/Lager,10
+1,5,train,Saison,9
+1,5,train,Scotch,4
+1,5,train,Stout/Porter,10
+1,5,train,Strong ale,13
+1,5,train,Tripel,23
+1,5,train,West Flanders ale,7
+1,5,train,Wheat,8
+1,5,validation,Amber,1
+1,5,validation,Blond,4
+1,5,validation,Brett/cofermented,5
+1,5,validation,Brown,3
+1,5,validation,Brut,2
+1,5,validation,Christmas,2
+1,5,validation,Dubbel,2
+1,5,validation,Faro,1
+1,5,validation,Flanders old brown,2
+1,5,validation,Fruitbeer,1
+1,5,validation,Hoppy,2
+1,5,validation,Kriek,1
+1,5,validation,Lambic,3
+1,5,validation,Low/No alcohol,1
+1,5,validation,Pils/Lager,1
+1,5,validation,Saison,1
+1,5,validation,Scotch,1
+1,5,validation,Stout/Porter,3
+1,5,validation,Strong ale,5
+1,5,validation,Tripel,5
+1,5,validation,West Flanders ale,0
+1,5,validation,Wheat,4
