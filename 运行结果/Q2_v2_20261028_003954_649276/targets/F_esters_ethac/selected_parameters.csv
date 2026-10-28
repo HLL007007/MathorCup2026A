@@ -1,0 +1,13 @@
+﻿phase,fold,method,parameters
+outer_cv,1,RF,"{""regressor__model__max_depth"": 8, ""regressor__model__max_features"": 0.8, ""regressor__model__min_samples_leaf"": 2, ""regressor__model__n_estimators"": 150}"
+outer_cv,1,EN,"{""regressor__model__alpha"": 0.31622776601683794, ""regressor__model__l1_ratio"": 0.1}"
+outer_cv,2,RF,"{""regressor__model__max_depth"": 8, ""regressor__model__max_features"": 0.8, ""regressor__model__min_samples_leaf"": 5, ""regressor__model__n_estimators"": 150}"
+outer_cv,2,EN,"{""regressor__model__alpha"": 1.0, ""regressor__model__l1_ratio"": 0.1}"
+outer_cv,3,RF,"{""regressor__model__max_depth"": 8, ""regressor__model__max_features"": 0.5, ""regressor__model__min_samples_leaf"": 5, ""regressor__model__n_estimators"": 150}"
+outer_cv,3,EN,"{""regressor__model__alpha"": 0.31622776601683794, ""regressor__model__l1_ratio"": 0.5}"
+outer_cv,4,RF,"{""regressor__model__max_depth"": 8, ""regressor__model__max_features"": 0.5, ""regressor__model__min_samples_leaf"": 5, ""regressor__model__n_estimators"": 150}"
+outer_cv,4,EN,"{""regressor__model__alpha"": 0.1, ""regressor__model__l1_ratio"": 0.9}"
+outer_cv,5,RF,"{""regressor__model__max_depth"": 8, ""regressor__model__max_features"": 0.5, ""regressor__model__min_samples_leaf"": 5, ""regressor__model__n_estimators"": 150}"
+outer_cv,5,EN,"{""regressor__model__alpha"": 1.0, ""regressor__model__l1_ratio"": 0.1}"
+full_data_for_bootstrap,0,RF,"{""regressor__model__max_depth"": 8, ""regressor__model__max_features"": 0.5, ""regressor__model__min_samples_leaf"": 5, ""regressor__model__n_estimators"": 150}"
+full_data_for_bootstrap,0,EN,"{""regressor__model__alpha"": 0.31622776601683794, ""regressor__model__l1_ratio"": 0.1}"

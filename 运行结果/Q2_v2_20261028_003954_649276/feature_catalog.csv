@@ -1,0 +1,232 @@
+﻿field_name_R,缺失数量,缺失率,最小值,最大值,负值数量,零值数量,chemical_name,calibrated,unit,候选关系,核验状态,kind,in_main_model,eligible_top3
+acetaldehyde,0,0.0,-1.902829488,1.268627576,11,0,Acetaldehyde,yes,mg/L,log10,可比正值全部吻合,compound,True,True
+CS2,0,0.0,-2.146291652,-0.008552402,250,0,Carbon disulfide,yes,ug/L,log10,可比正值全部吻合,compound,True,True
+DES,0,0.0,-1.905266906,0.671646697,181,0,Diethyl sulfide,yes,ug/L,log10,可比正值全部吻合,compound,True,True
+DMS,0,0.0,0.0462112,2.716380377,0,0,Dimethyl sulfide,yes,ug/L,log10,可比正值全部吻合,compound,True,True
+ethyl_2.methyl_butyrate,0,0.0,-3.195519811,-0.539583303,250,0,Ethyl 2-methylbutyrate,yes_gcms,mg/L,log10,可比正值全部吻合,compound,True,True
+ethyl_acetate,0,0.0,-0.599349782,2.116964264,4,0,Ethyl acetate,yes,mg/L,log10,可比正值全部吻合,compound,True,True
+ethyl_decanoate,0,0.0,-2.975719624,-0.186983093,250,0,Ethyl decanoate,"yes_gcms, yes",mg/L,log10,可比正值全部吻合,compound,True,True
+ethyl_hexanoate,0,0.0,-2.476904162,-0.078258916,250,0,Ethyl hexanoate,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+ethyl_isovalerate,0,0.0,-4.487004489,-0.85884822,250,0,Ethyl 3-methylbutyrate,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+ethyl_octanoate,0,0.0,-2.004803708,0.301065823,231,0,Ethyl octanoate,"yes_gcms, yes",mg/L,log10,可比正值全部吻合,compound,True,True
+ethyl_propionate,0,0.0,-2.44279366,-0.087870979,250,0,Ethyl propionate,"yes_gcms, yes",mg/L,log10,可比正值全部吻合,compound,True,True
+H2S,0,0.0,-1.586071886,1.694089969,12,0,Hydrogen sulfide,yes,ug/L,log10,可比正值全部吻合,compound,True,True
+isoamyl_alcohol,0,0.0,-0.730837435,2.009009514,4,0,Isoamyl alcohol,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+isobutanol,0,0.0,-1.321117585,1.523693932,11,0,Isobutanol,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+isobutyl_acetate,0,0.0,-3.265600257,-0.327583468,250,0,Isobutyl acetate,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+isopentyl_acetate,0,0.0,-1.189498652,1.116660035,62,0,Isoamyl acetate,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+MeSH,0,0.0,-1.784098187,0.540736044,155,0,Methanethiol,yes,ug/L,log10,可比正值全部吻合,compound,True,True
+octyl_acetate,0,0.0,-3.45500232,-1.44267329,250,0,Octyl acetate,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+phenethyl_acetate,0,0.0,-2.221667831,0.10738467,248,0,Phenethyl acetate,"yes_gcms,yes",mg/L,log10,可比正值全部吻合,compound,True,True
+phenethyl_alcohol,0,0.0,-0.041675068,1.889005553,4,0,Phenethyl alcohol,"yes_gcms, yes",mg/L,log10,可比正值全部吻合,compound,True,True
+X4VG,0,0.0,-2.013157381,-0.164417223,250,0,4-vinylguaiacol,yes_gcms,mg/L,log10,可比正值全部吻合,compound,True,True
+SO2.mg.L.,0,0.0,-1.0,1.07371835,20,4,Sulfur dioxide,yes,mg/L,log10,可比正值全部吻合,compound,True,True
+acetic_acid.g.L.,0,0.0,-1.756961951,0.5132176,243,0,Acetic acid,yes,g/L,log10,可比正值全部吻合,compound,True,True
+ammonia.mg.L.,0,0.0,-0.853871964,2.303260873,15,0,Ammonia,yes,mg/L,log10,可比正值全部吻合,compound,True,True
+color.EBC.,0,0.0,0.653212514,2.476179262,0,0,Color,yes,EBC,log10,可比正值全部吻合,auxiliary,True,False
+betaglucan.mg.L.,0,0.0,0.096910013,2.603144373,0,0,Betaglucan,yes,mg/L,log10,可比正值全部吻合,auxiliary,True,False
+lactic_acid.mg.L.,0,0.0,1.311753861,3.856577858,0,0,Lactic acid,yes,mg/L,log10,可比正值全部吻合,compound,True,True
+glycerol,0,0.0,-0.795880017,0.77633791,7,0,Glycerol,yes,g/L,log10,可比正值全部吻合,compound,True,True
+iron,0,0.0,-2.698970004,0.701999475,241,0,Iron,yes,mg/L,log10,可比正值全部吻合,auxiliary,True,False
+pH,0,0.0,0.57054294,0.674401813,0,0,pH,yes,pH,log10,可比正值全部吻合,auxiliary,True,False
+protein.g.L.,0,0.0,-0.698970004,1.546542663,1,0,Protein,yes,g/L,log10,可比正值全部吻合,auxiliary,True,False
+bitterness,0,0.0,-1.144178095,1.794142844,5,0,Iso-alpha acids,yes,IBU,log10,可比正值全部吻合,auxiliary,True,False
+GFS,0,0.0,-2.602059991,1.914263803,184,0,Sugars,yes,g/L,log10,可比正值全部吻合,auxiliary,True,False
+ethanol..v.v.,0,0.0,-1.455931956,1.06595298,5,0,Ethanol,yes,v/v,log10,可比正值全部吻合,compound,True,True
+CO2.PSI.,0,0.0,-0.230992129,0.707570176,39,0,Carbon dioxide,yes,PSI,log10,可比正值全部吻合,compound,True,True
+unfermentables,0,0.0,0.070960916,1.896085085,0,0,Unfermentables,yes,,log10,可比正值全部吻合,auxiliary,True,False
+kcalperc,0,0.0,0.955286362,1.978453886,0,0,Caloric value,yes,kcal%,log10,可比正值全部吻合,derived,False,False
+X1.propanol,0,0.0,-1.81781854,7.441162091,7,0,1-propanol,,,,无对应参考浓度,compound,True,True
+X2.3.butanedione,9,0.036,5.9e-08,121.7310182,0,0,Diacetyl,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+X3.methylbutanal,7,0.028,5.5e-09,127.059107,0,0,3-methylbutanal,,A.U.,原值,可比正值仍有差异,compound,True,True
+propylene.glycol,0,0.0,-1.81781854,7.479163406,72,0,Propylene glycol,,,,无对应参考浓度,compound,True,True
+propyl.acetate,0,0.0,-1.81781854,7.382127173,16,0,N-propyl acetate,,,,无对应参考浓度,compound,True,True
+n.pentanol,0,0.0,5.699394702,8.668641086,0,0,N-pentanol,,,,无对应参考浓度,compound,True,True
+X2.methyl.1.butanol,0,0.0,5.791555388,9.049596762,0,0,2-methyl-1-butanol,,,,无对应参考浓度,compound,True,True
+isopentyl.formate,0,0.0,5.248896163,9.02388642,0,0,Isopentyl formate,,,,无对应参考浓度,compound,True,True
+ethyl.isobutyrate,1,0.004,5e-10,0.885719554,0,0,Ethyl isobutyrate,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+X3.methyl.2.butenal,0,0.0,4.813145217,7.353395541,0,0,3-methyl-2-butenal,,,,无对应参考浓度,compound,True,True
+X2.methyltetrahydrofuran.3.one,0,0.0,0.000297441,12596.43287,0,0,2-methyltetrahydrofuran-3-one,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+ethyl.butyrate,0,0.0,0.000205621,1.883683746,0,0,Ethyl butyrate,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+butyl.acetate,0,0.0,-1.81781854,8.0949975,18,0,Butyl acetate,,,,无对应参考浓度,compound,True,True
+methylpyrazine,12,0.048,2.4e-08,0.896099334,0,0,Methylpyrazine,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+furfural,1,0.004,6.45e-08,1.818860513,0,0,Furfural,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+ethyl.lactate,0,0.0,-1.81781854,6.76057924,195,0,Ethyl lactate,,,,无对应参考浓度,compound,True,True
+X3Z.hexenol,0,0.0,0.001319407,3.423350433,0,0,Cis-3-hexenol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+n.hexanol,0,0.0,0.005802034,7.804921899,0,0,N-hexanol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+styrene,0,0.0,0.000239015,2.931368836,0,0,Styrene,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+X2.furanmethanol,0,0.0,-1.81781854,9.62304446,3,0,Furfuryl alcohol,,,,无对应参考浓度,compound,True,True
+X3.methyl.2.hexanol,0,0.0,7.022096616,8.719027268,0,0,3-methyl-2-hexanol,,,,无对应参考浓度,compound,True,True
+X3.furanmethanol,0,0.0,6.010021132,8.02024773,0,0,3-furanmethanol,,,,无对应参考浓度,compound,True,True
+X2.acetylfuran,0,0.0,-1.81781854,6.727171188,3,0,2-acetylfuran,,,,无对应参考浓度,compound,True,True
+X2.6.dimethyl.pyrazine,0,0.0,-1.81781854,6.506732776,94,0,"2,6-dimethylpyrazine",,A.U.,,无对应参考浓度,compound,True,True
+amyl.acetate,27,0.108,1e-09,0.074072754,0,0,Amyl acetate,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+ethyl.tiglate,0,0.0,-1.81781854,6.243452006,13,0,Ethyl tiglate,,,,无对应参考浓度,compound,True,True
+benzaldehyde,0,0.0,0.000286933,0.487929493,0,0,Benzaldehyde,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+X5.methylfurfural,0,0.0,1.1e-05,0.039860957,0,0,5-methylfurfural,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+n.heptanol,0,0.0,4.838275282,7.248115259,0,0,N-heptanol,,,,无对应参考浓度,compound,True,True
+X1.octen.3.ol,0,0.0,-1.81781854,6.901417298,4,0,1-octen-3-ol,,,,无对应参考浓度,compound,True,True
+X3.methylthio.propanol,0,0.0,-1.81781854,7.052450059,26,0,Methionol,,,,无对应参考浓度,compound,True,True
+isomaltol,0,0.0,-1.81781854,7.77098142,29,0,Isomaltol,,,,无对应参考浓度,compound,True,True
+X6.methyl.5.hepten.2.one,0,0.0,-1.81781854,6.196559379,212,0,Methyl heptenone,,,,无对应参考浓度,compound,True,True
+X2.pentyl.furan,0,0.0,-1.81781854,5.961376371,47,0,2-pentyl furan,,,,无对应参考浓度,compound,True,True
+ethyl.hex..3E..enoate,0,0.0,4.454240386,7.233225226,0,0,Ethyl 3-hexanoate,,,,无对应参考浓度,compound,True,True
+alpha.phellandrene,0,0.0,-1.81781854,5.879015322,138,0,Î±-phellandrene,,A.U.,,无对应参考浓度,compound,True,True
+dehydroxy.cis.linalool.oxide,0,0.0,-1.81781854,8.644817969,106,0,Dehydroxy-cis-linalool oxide,,,,无对应参考浓度,compound,True,True
+hexyl.acetate,0,0.0,0.000169398,10.80822273,0,0,Hexyl acetate,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+isopentyl.butanoate,0,0.0,-1.81781854,8.207394693,72,0,Isopentyl butanoate,,,,无对应参考浓度,compound,True,True
+X2.ethyl.1.hexanol,0,0.0,-1.81781854,7.033751614,71,0,2-ethyl-1-hexanol,,,,无对应参考浓度,compound,True,True
+beta.phellandrene,0,0.0,-1.81781854,6.69656588,108,0,Beta-phellandrene,,,,无对应参考浓度,compound,True,True
+limonene,0,0.0,-1.81781854,8.321958479,212,0,Limonene,,,,无对应参考浓度,compound,True,True
+eucalyptol,0,0.0,-1.81781854,7.235643581,141,0,Eucalyptol,,,,无对应参考浓度,compound,True,True
+benzyl.alcohol,0,0.0,2.85e-08,0.335620269,0,0,Benzyl alcohol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+ethyl.hex..2E..enoate,0,0.0,-1.81781854,6.754247813,57,0,Ethyl 2-hexenoate,,,,无对应参考浓度,compound,True,True
+phenylacetaldehyde,1,0.004,2.43e-07,0.36299261,0,0,Phenylacetaldehyde,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+X.E..beta.ocimene,0,0.0,0.000206056,1.518681466,0,0,E-Î²-ocimene,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+prenyl.isobutyrate,0,0.0,-1.81781854,7.231632304,3,0,Prenyl isobutyrate,,,,无对应参考浓度,compound,True,True
+ethyl.furoate,0,0.0,-1.81781854,6.499622228,52,0,Ethyl furoate,,,,无对应参考浓度,compound,True,True
+ortho.cresol,0,0.0,-1.81781854,7.095126241,2,0,O-cresol,,,,无对应参考浓度,compound,True,True
+ethyl.5.methylhexanoate,0,0.0,-1.81781854,6.828449689,2,0,Ethyl 5-methylhexanoate,,,,无对应参考浓度,compound,True,True
+X2.acetylpyrrole,0,0.0,-1.81781854,7.042944332,3,0,2-acetylpyrrole,,A.U.,,无对应参考浓度,compound,True,True
+isoamyl.lactate,0,0.0,-1.81781854,7.413283913,19,0,Isoamyl lactate,,,,无对应参考浓度,compound,True,True
+n.octanol,0,0.0,4.757804822,7.798774544,0,0,N-octanol,,,,无对应参考浓度,compound,True,True
+cis.linalool.oxide,0,0.0,-1.81781854,6.756957047,120,0,Cis-linalool oxide,,,,无对应参考浓度,compound,True,True
+meta.cymenene,0,0.0,-1.81781854,6.194849661,194,0,Meta-cymenene,,,,无对应参考浓度,compound,True,True
+terpinolene,0,0.0,4.017764507,8.756310825,0,0,Terpinolene,,,,无对应参考浓度,compound,True,True
+linalool,0,0.0,0.013179154,32.48474769,0,0,Linalool,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+nonan.2.ol,0,0.0,4.51232489,7.389021494,0,0,2-nonanol,,,,无对应参考浓度,compound,True,True
+n.nonanal,0,0.0,-1.81781854,7.257586624,100,0,N-nonanal,,,,无对应参考浓度,compound,True,True
+X2.methyl.benzofuran,0,0.0,-1.81781854,7.464135669,25,0,2-methyl-benzofuran,,,,无对应参考浓度,compound,True,True
+heptyl.acetate,0,0.0,-1.81781854,6.869827866,52,0,Heptyl acetate,,,,无对应参考浓度,compound,True,True
+X4.methyl.1.pentanol,0,0.0,-1.81781854,6.885881615,4,0,4-methyl-1-pentanol,,,,无对应参考浓度,compound,True,True
+neo.allo.ocimene,0,0.0,-1.81781854,8.086688944,63,0,Neo-allo-ocimene,,,,无对应参考浓度,compound,True,True
+x.methyl.1.octanol,0,0.0,-1.81781854,7.1776631,21,0,X-methyl-1-octanol,,,,无对应参考浓度,unresolved,True,False
+trans.dihydro.beta.terpineol,0,0.0,-1.81781854,5.800840571,84,0,Trans-dihydro-Î²-terpineol,,,,无对应参考浓度,compound,True,True
+cis.beta.terpineol,0,0.0,-1.81781854,8.308991501,160,0,Cis-Î²-terpineol,,,,无对应参考浓度,compound,True,True
+y.methyl.1.octanol,0,0.0,-1.81781854,6.292889237,152,0,Y-methyl-1-octanol,,,,无对应参考浓度,unresolved,True,False
+camphor,0,0.0,-1.81781854,8.062584988,44,0,Camphor,,,,无对应参考浓度,compound,True,True
+isobutyl.hexanoate,0,0.0,-1.81781854,6.124007833,6,0,Isobutyl hexanoate,,,,无对应参考浓度,compound,True,True
+nerol.oxide,0,0.0,-1.81781854,6.365693032,11,0,Nerol oxide,,,,无对应参考浓度,compound,True,True
+X.E..2.nonenal,0,0.0,6.14e-05,14.9100917,0,0,E-2-nonenal,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+cis.dihydro.beta.terpineol,0,0.0,-1.81781854,5.942235074,203,0,Cis-dihydro-Î²-terpineol,,,,无对应参考浓度,compound,True,True
+X4.ethyl.phenol,0,0.0,-1.81781854,8.301198549,10,0,4-ethyl-phenol,,A.U.,,无对应参考浓度,compound,True,True
+isoborneol,0,0.0,4.297495721,7.139664237,0,0,Isoborneol,,,,无对应参考浓度,compound,True,True
+ethyl.benzoate,0,0.0,3.698708271,8.422288664,0,0,Ethyl benzoate,,,,无对应参考浓度,compound,True,True
+n.nonanol,0,0.0,-1.81781854,7.194401184,7,0,N-nonanol,,,,无对应参考浓度,compound,True,True
+terpinen.4.ol,0,0.0,-1.81781854,7.69077521,4,0,Terpinen-4-ol,,,,无对应参考浓度,compound,True,True
+diethyl.succinate,0,0.0,0.001359126,1.279587673,0,0,Diethyl succinate,yes_gcms,mg/L,原值,可比正值全部吻合,compound,True,True
+vinyl.caprylate,0,0.0,-1.81781854,7.129236688,6,0,Vinyl caprylate,,,,无对应参考浓度,compound,True,True
+X1.alpha.terpineol,0,0.0,0.019008189,10.78934238,0,0,Alpha-terpineol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+ethyl..E..linalool,0,0.0,-1.81781854,7.988744854,1,0,Ethyl linalool,,,,无对应参考浓度,compound,True,True
+ethyl.nicotinate,2,0.008,2.4e-07,0.305614725,0,0,Ethyl nicotinate,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+citronellol,0,0.0,0.006587682,11.74178698,0,0,Citronellol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+nerol,0,0.0,-1.81781854,7.301212808,6,0,Nerol,,,,无对应参考浓度,compound,True,True
+hydroxy.methyl.furfural,0,0.0,-1.81781854,6.734525607,1,0,5-hydroxymethylfurfural,,,,无对应参考浓度,compound,True,True
+E.ocimenone,0,0.0,-1.81781854,6.158246118,2,0,Ocimenone,,,,无对应参考浓度,compound,True,True
+cumin.aldehyde,0,0.0,-1.81781854,5.964922169,5,0,Cumin aldehyde,,,,无对应参考浓度,compound,True,True
+ethyl.phenylacetate,0,0.0,-1.81781854,7.603322468,1,0,Ethyl phenylacetate,,,,无对应参考浓度,compound,True,True
+isopentyl.hexanoate,0,0.0,-1.81781854,6.901244614,31,0,Isopentyl hexanoate,,,,无对应参考浓度,compound,True,True
+geraniol,0,0.0,6.3e-06,2.225405554,0,0,Geraniol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+beta.cyclohomocitral,0,0.0,-1.81781854,7.293785229,5,0,Î²-cyclohomocitral,,,,无对应参考浓度,compound,True,True
+E.cinnamaldehyde,0,0.0,-1.81781854,7.458884056,45,0,Cinnamaldehyde,,,,无对应参考浓度,compound,True,True
+n.decanol,0,0.0,-1.81781854,8.054363595,6,0,N-decanol,,,,无对应参考浓度,compound,True,True
+neryl.formate,0,0.0,-1.81781854,7.478981811,49,0,Neryl formate,,,,无对应参考浓度,compound,True,True
+X4.ethyl.guaiacol,0,0.0,-1.81781854,9.105451598,3,0,4-ethyl-guaiacol,,A.U.,,无对应参考浓度,compound,True,True
+X2.undecanone,0,0.0,-1.81781854,6.989762528,60,0,2-undecanone,,A.U.,,无对应参考浓度,compound,True,True
+trans.dihydro.alpha.terpinyl.acetate,0,0.0,3.383275314,7.115462826,0,0,Trans-dihydro-Î±-terpinyl acetate,,,,无对应参考浓度,compound,True,True
+terpinen.4.ol.acetate,0,0.0,-1.81781854,6.329537716,25,0,Terpinen-4-ol acetate,,,,无对应参考浓度,compound,True,True
+X2.undecanol,0,0.0,-1.81781854,7.192732656,21,0,2-undecanol,,,,无对应参考浓度,compound,True,True
+delta.terpinyl.acetate,0,0.0,-1.81781854,7.170804613,6,0,Terpiryl acetate,,,,无对应参考浓度,compound,True,True
+X.E.E..2.4.decadienal,0,0.0,4e-08,0.164755801,0,0,"E,E-2,4-decadienal",yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+methyl.geranate,0,0.0,-1.81781854,8.472583795,9,0,Methyl geranate,,,,无对应参考浓度,compound,True,True
+car.3.en.2.one,0,0.0,-1.81781854,5.874246817,9,0,Car-3-en-2-one,,,,无对应参考浓度,compound,True,True
+dimethoxy..E..citral,0,0.0,-1.81781854,6.051629393,65,0,Dimethoxy-E-citral,,,,无对应参考浓度,compound,True,True
+X2.butyloctanoate,0,0.0,-1.81781854,8.371862183,35,0,2-butyl octanoate,,,,无对应参考浓度,compound,True,True
+X4.methoxysalicylaldehyde,0,0.0,-1.81781854,5.386392879,11,0,4-methoxysalicylaldehyde,,,,无对应参考浓度,compound,True,True
+ethyl.hydrocinnamate,0,0.0,-1.81781854,7.41694431,3,0,Ethyl hydrocinnamate,,,,无对应参考浓度,compound,True,True
+eugenol,0,0.0,3.86e-05,3.567575906,0,0,Eugenol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+gamma.nonalactone,0,0.0,0.000229679,7256.135876,0,0,Gamma-nonalactone,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+methyl.para.anisate,0,0.0,-1.81781854,7.627316931,22,0,Methyl para-anisate,,,,无对应参考浓度,compound,True,True
+X.E..beta.damascenone,0,0.0,0.004363221,5991.012523,0,0,E-Î²-damascenone,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+ethyl..9..decenoate,0,0.0,-1.81781854,8.744308855,5,0,Ethyl 9-decenoate,,,,无对应参考浓度,compound,True,True
+vanillin,0,0.0,-1.81781854,6.9043886,22,0,Vanillin,,,,无对应参考浓度,compound,True,True
+geosmin,0,0.0,-1.81781854,6.521321909,137,0,Geosmin,,,,无对应参考浓度,compound,True,True
+dodecanal,0,0.0,-1.81781854,6.802592365,17,0,Dodecanal,,,,无对应参考浓度,compound,True,True
+X4.8.alpha.epoxy.caryophyllane,0,0.0,-1.81781854,6.150409828,68,0,"4,8-Î±-epoxy-caryophyllane",,,,无对应参考浓度,compound,True,True
+E.caryophyllene,0,0.0,1.64e-05,40.92665991,0,0,Caryophyllene,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+X.E..alpha.ionone,0,0.0,-1.81781854,8.47036121,6,0,E-Î±-ionone,,,,无对应参考浓度,compound,True,True
+perillyl.acetate,0,0.0,-1.81781854,7.852435538,1,0,Perillyl acetate,,,,无对应参考浓度,compound,True,True
+beta.humulene,0,0.0,-1.81781854,5.849300818,178,0,Î²-humulene,,,,无对应参考浓度,compound,True,True
+X2.phenyl.ethyl.butyrate,0,0.0,-1.81781854,6.210040509,7,0,2-phenyl ethyl butyrate,,,,无对应参考浓度,compound,True,True
+X.Z..beta.farnesene,0,0.0,-1.81781854,6.931947609,16,0,Z-Î²-farnesene,,,,无对应参考浓度,compound,True,True
+pentyl.octanoate,0,0.0,-1.81781854,7.788372449,25,0,Pentyl octanoate,,,,无对应参考浓度,compound,True,True
+X.E..beta.farnesene,0,0.0,-1.81781854,6.209900677,78,0,E-Î²-farnesene,,,,无对应参考浓度,compound,True,True
+X2.methylbutyl.octanoate,0,0.0,-1.81781854,8.045721306,14,0,2-methylbutyl octanoate,,,,无对应参考浓度,compound,True,True
+alpha.humulene,0,0.0,0.000879728,6.0622472,0,0,Alpha-humulene,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+neryl.propanoate,0,0.0,-1.81781854,6.21256931,6,0,Neryl propanoate,,,,无对应参考浓度,compound,True,True
+X9.epi..E..caryophyllene,0,0.0,-1.81781854,6.415609995,10,0,9-epi-E-caryophyllene,,,,无对应参考浓度,compound,True,True
+ethyl..E..cinnamate,0,0.0,-1.81781854,6.509118018,6,0,Ethyl cinnamate,,,,无对应参考浓度,compound,True,True
+linalool.isovalerate,0,0.0,-1.81781854,7.595991289,35,0,Linalool isovalerate,,,,无对应参考浓度,compound,True,True
+alpha.terpinyl.isobutanoate,0,0.0,-1.81781854,5.77627527,8,0,Î±-terpinyl isobutanoate,,,,无对应参考浓度,compound,True,True
+n.dodecanol,0,0.0,-1.81781854,7.496912635,7,0,N-dodecanol,,,,无对应参考浓度,compound,True,True
+germacrene.D,0,0.0,-1.81781854,6.94201045,20,0,Germacrene D,,,,无对应参考浓度,compound,True,True
+X.E..beta.ionone,0,0.0,3.936969793,8.44070099,0,0,E-Î²-ionone,,,,无对应参考浓度,compound,True,True
+valencene,0,0.0,-1.81781854,8.192349451,170,0,Valencene,,,,无对应参考浓度,compound,True,True
+neryl.isobutanoate,0,0.0,-1.81781854,5.586626186,20,0,Neryl isobutanoate,,,,无对应参考浓度,compound,True,True
+E.methyl.isoeugenol,0,0.0,-1.81781854,6.35234211,96,0,Methyl isoeugenol,,,,无对应参考浓度,compound,True,True
+X.Z..dihydro.apofarnesal,0,0.0,-1.81781854,5.858233017,60,0,Z-dihydro-apofarnesal,,,,无对应参考浓度,compound,True,True
+butylated.hydroxytoluene,0,0.0,-1.81781854,8.293064967,91,0,Butylated hydroxytoluene,,,,无对应参考浓度,compound,True,True
+X.E..dihydro.apofarnesal,0,0.0,-1.81781854,5.637727083,100,0,E-dihydro-apofarnesal,,,,无对应参考浓度,compound,True,True
+Z.nerolidol,0,0.0,0.000224199,2.743348644,0,0,Z-nerolidol,yes_gcms,mg/L,原值,可比正值仍有差异,compound,True,True
+X.E..ortho.methoxy.cinnamaldehyde,0,0.0,-1.81781854,5.791970513,69,0,E-ortho-methoxy cinnamaldehyde,,,,无对应参考浓度,compound,True,True
+alpha.calacorene,0,0.0,-1.81781854,6.281503717,2,0,Î±-calacorene,,,,无对应参考浓度,compound,True,True
+E.nerolidol,0,0.0,-1.81781854,6.665994746,8,0,E-nerolidol,,,,无对应参考浓度,compound,True,True
+dihydroisocaryophyllene.epoxide,0,0.0,-1.81781854,6.248762,6,0,Tobacarol,,,,无对应参考浓度,compound,True,True
+caryophyllene.alcohol,0,0.0,-1.81781854,6.665432864,4,0,Caryophyllene alcohol,,,,无对应参考浓度,compound,True,True
+neryl.isovalerate,0,0.0,-1.81781854,7.437570934,17,0,Neryl isovalerate,,,,无对应参考浓度,compound,True,True
+spathulenol,0,0.0,-1.81781854,5.785301507,75,0,Spathulenol,,,,无对应参考浓度,compound,True,True
+caryophyllene.oxide,0,0.0,-1.81781854,6.834719018,52,0,Caryophyllene oxide,,,,无对应参考浓度,compound,True,True
+humulene.epoxide.II,0,0.0,-1.81781854,7.203723787,18,0,Humulene epoxide II,,,,无对应参考浓度,compound,True,True
+alloaromadendrene.epoxide,0,0.0,-1.81781854,7.59458312,18,0,Allo-aromadendrene epoxide,,,,无对应参考浓度,compound,True,True
+X1.10.di.epi.cubenol,0,0.0,-1.81781854,7.16110532,11,0,Epicubenol,,,,无对应参考浓度,compound,True,True
+isopropyl.laurate,0,0.0,-1.81781854,8.362384134,2,0,Isopropyl laurate,,,,无对应参考浓度,compound,True,True
+caryophylla.4.12..8.13..dien.5.alpha.ol,0,0.0,-1.81781854,6.482746119,62,0,"Caryophylla-4,8-dien-5-ol",,,,无对应参考浓度,compound,True,True
+gamma.eudesmol,0,0.0,-1.81781854,6.396605901,128,0,Gamma-eudesmol,,,,无对应参考浓度,compound,True,True
+alpha.muurolol,0,0.0,-1.81781854,6.936927496,43,0,Î±-muurolol,,A.U.,,无对应参考浓度,compound,True,True
+X1.2.dihydro.8.hydroxy..2E..linalool,0,0.0,-1.81781854,7.05973795,72,0,"1,2-dihydro-8-hydroxy-2E-linalool",,,,无对应参考浓度,compound,True,True
+tau.cadinol,0,0.0,-1.81781854,8.025148966,21,0,Tau-cadinol,,,,无对应参考浓度,compound,True,True
+selin.11.en.4.alpha.ol,0,0.0,-1.81781854,7.116835715,123,0,Kongol,,,,无对应参考浓度,compound,True,True
+alpha.eudesmol,0,0.0,-1.81781854,7.942127394,86,0,Î±-eudesmol,,,,无对应参考浓度,compound,True,True
+X14.hydroxy.9.epi..E..caryophyllene,0,0.0,-1.81781854,5.96506842,26,0,14-hydroxy-9-epi-(E)-caryophyllene,,,,无对应参考浓度,compound,True,True
+tau.muurolol,0,0.0,-1.81781854,6.804515853,54,0,Tau-muurolol,,,,无对应参考浓度,compound,True,True
+n.tetradecanol,0,0.0,-1.81781854,6.470001961,37,0,N-tetradecanol,,,,无对应参考浓度,compound,True,True
+foeniculin,0,0.0,-1.81781854,5.215406401,152,0,Eoeniculin,,,,无对应参考浓度,compound,True,True
+cadalene,0,0.0,-1.81781854,5.958319021,6,0,Cadalene,,,,无对应参考浓度,compound,True,True
+X2.3.dihydro.farnesol,0,0.0,-1.81781854,6.493343197,13,0,"2,3-dihydro-farnesol",,,,无对应参考浓度,compound,True,True
+X2E.6Z.farnesal,0,0.0,-1.81781854,6.498679581,81,0,"E,Z-farnesal",,,,无对应参考浓度,compound,True,True
+caryophyllene.acetate,0,0.0,-1.81781854,6.231359202,110,0,Caryophyllene acetate,,,,无对应参考浓度,compound,True,True
+X14.hydroxy.alpha.humulene,0,0.0,-1.81781854,6.762795932,79,0,14-hydroxy-Î±-humulene,,,,无对应参考浓度,compound,True,True
+X2Z.6E.farnesal,0,0.0,-1.81781854,6.213955253,98,0,"Z,E-farnesal",,,,无对应参考浓度,compound,True,True
+X2Z.6Z.farnesol,0,0.0,-1.81781854,5.664698221,88,0,"Z,Z-farnesol",,,,无对应参考浓度,compound,True,True
+X2Z.6E.farnesol,0,0.0,-1.81781854,6.211925474,36,0,"Z,E-farnesol",,,,无对应参考浓度,compound,True,True
+ambroxide,0,0.0,-1.81781854,5.370198014,16,0,Ambroxide,,,,无对应参考浓度,compound,True,True
+benzyl.benzoate,0,0.0,-1.81781854,4.734663754,14,0,Benzyl benzoate,,,,无对应参考浓度,compound,True,True
+X2E.6E.methyl.farnesoate,0,0.0,-1.81781854,5.37934717,79,0,"2E,6E-methyl farnesoate",,,,无对应参考浓度,compound,True,True
+ethyl.tetradecanoate,0,0.0,-1.81781854,6.981381589,15,0,Ethyl tetradecanoate,,,,无对应参考浓度,compound,True,True
+X2.ethylhexylsalicylate,0,0.0,-1.81781854,6.714831083,79,0,2-ethylhexyl acrylate,,,,无对应参考浓度,compound,True,True
+isopropyl.tetradecanoate,0,0.0,-1.81781854,5.143863899,26,0,Isopropyl tetradecanoate,,,,无对应参考浓度,compound,True,True
+ethyl.pentadecanoate,0,0.0,-1.81781854,5.668396519,38,0,Ethyl pentadecanoate,,,,无对应参考浓度,compound,True,True
+methyl.hexadecanoate,0,0.0,-1.81781854,5.857190276,24,0,Methyl hexadecanoate,,,,无对应参考浓度,compound,True,True
+Z.Z.geranyl.linalool,0,0.0,-1.81781854,6.23804053,30,0,"Z,Z-geranyl linalool",,,,无对应参考浓度,compound,True,True
+ethyl.hexadecanoate,0,0.0,-1.81781854,7.418010422,54,0,Ethyl hexadecanoate,,,,无对应参考浓度,compound,True,True
+manool.oxide,0,0.0,-1.81781854,5.034735348,6,0,Manool oxide,,,,无对应参考浓度,compound,True,True
+X13.epi.manool.oxide,0,0.0,-1.81781854,5.0064654,39,0,13-epi manool oxide,,,,无对应参考浓度,compound,True,True
+isopropyl.hexadecanoate,0,0.0,-1.81781854,5.56200701,142,0,Isopropyl hexadecanoate,,,,无对应参考浓度,compound,True,True
+manool,0,0.0,-1.81781854,6.515499379,11,0,Manool,,,,无对应参考浓度,compound,True,True
+ethyl.octadecanoate,0,0.0,-1.81781854,6.670236218,22,0,Ethyl octadecanoate,,,,无对应参考浓度,compound,True,True
+ethyl.pentanoate,0,0.0,0.004320453,1.678874433,0,0,Ethyl pentanoate,,,原值,可比正值仍有差异,compound,True,True
+X2.ethyl.3.methylpyrazine,0,0.0,4.4e-05,1.138483735,0,0,2-ethyl-3-methylpyrazine,,A.U.,原值,可比正值仍有差异,compound,True,True
+esters_sum,0,0.0,-0.532634033,1.468011129,8,0,Total ester compounds,,,,无对应参考浓度,derived,False,False
+aroma_hops_sum,13,0.052,0.672328375,3.862223736,0,0,Total hop aroma compounds,,,,无对应参考浓度,derived,False,False
+acids_sum,0,0.0,-1.204001089,1.444068363,46,0,Total acids,,,,无对应参考浓度,derived,False,False
+sulfur_sum,0,0.0,-0.153867111,1.471061968,3,0,Total sulfur compounds,,,,无对应参考浓度,derived,False,False

@@ -1,0 +1,4 @@
+﻿feature,eligible,top3_frequency,rank_median,importance_share_mean,importance_share_p025,importance_share_p975,target,method,chemical_name,OOF_R2,rank
+unfermentables,True,0.91,1.0,0.021202338340394956,0.0021134125551386493,0.09112624549464168,A_esters_isoaa,RF,Unfermentables,0.09876882751565641,1
+pH,True,0.44,4.0,0.003685864544489945,0.0007904704352811776,0.0106998570241846,A_esters_isoaa,RF,pH,0.09876882751565641,2
+protein.g.L.,True,0.43,4.0,0.0038925744498429925,0.0007704130317328688,0.016929773948679342,A_esters_isoaa,RF,Protein,0.09876882751565641,3

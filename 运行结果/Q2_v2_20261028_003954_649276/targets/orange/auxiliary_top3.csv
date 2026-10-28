@@ -1,0 +1,4 @@
+﻿feature,eligible,top3_frequency,rank_median,importance_share_mean,importance_share_p025,importance_share_p975,target,method,chemical_name,OOF_R2,rank
+betaglucan.mg.L.,True,0.61,3.0,0.0031859192125140924,0.0005912311249789608,0.010224176321827276,orange,RF,Betaglucan,0.29579689207100013,1
+unfermentables,True,0.575,3.0,0.0027197705607490234,0.00047251129331547,0.007938497370512406,orange,RF,Unfermentables,0.29579689207100013,2
+color.EBC.,True,0.575,3.0,0.002687596700636738,0.00042225828070390165,0.007823552433394047,orange,RF,Color,0.29579689207100013,3

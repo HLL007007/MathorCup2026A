@@ -1,0 +1,4 @@
+﻿feature,eligible,top3_frequency,rank_median,importance_share_mean,importance_share_p025,importance_share_p975,target,method,chemical_name,OOF_R2,rank
+unfermentables,True,0.935,1.0,0.04892376841898291,0.003317425972952571,0.16634933611471814,F_esters_isoaa,RF,Unfermentables,0.16087126492716608,1
+GFS,True,0.79,3.0,0.014697942749768154,0.0019309864350696565,0.051913991943033574,F_esters_isoaa,RF,Sugars,0.16087126492716608,2
+protein.g.L.,True,0.74,3.0,0.01609608278444382,0.0012100990837577497,0.06149892758014169,F_esters_isoaa,RF,Protein,0.16087126492716608,3
