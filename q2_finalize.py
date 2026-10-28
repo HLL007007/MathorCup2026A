@@ -442,7 +442,7 @@ def self_check(data, table):
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--results", type=Path)
-    parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parent / "Q2_收尾")
+    parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parent / "Q2")
     parser.add_argument("--font", type=Path, help="Optional font file (TTF/OTF/TTC)")
     parser.add_argument("--dpi", type=int, default=600)
     parser.add_argument("--self-check", action="store_true")
